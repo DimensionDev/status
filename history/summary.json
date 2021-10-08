@@ -22,17 +22,19 @@
     "url": "https://unlock.r2d2.to",
     "icon": "https://favicons.githubusercontent.com/unlock.r2d2.to",
     "slug": "maskbook-unlock-protocol-plugin-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 850,
-    "timeDay": 926,
-    "timeWeek": 888,
+    "timeDay": 885,
+    "timeWeek": 883,
     "timeMonth": 850,
     "timeYear": 850,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-08": 0
+    }
   }
 ]
