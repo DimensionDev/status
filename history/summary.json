@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 140,
-    "timeWeek": 81,
-    "timeMonth": 249,
-    "timeYear": 249,
+    "time": 243,
+    "timeDay": 134,
+    "timeWeek": 82,
+    "timeMonth": 243,
+    "timeYear": 243,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "maskbook-unlock-protocol-plugin-server",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "98.07%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 843,
-    "timeDay": 805,
-    "timeWeek": 857,
-    "timeMonth": 843,
-    "timeYear": 843,
+    "time": 846,
+    "timeDay": 892,
+    "timeWeek": 871,
+    "timeMonth": 846,
+    "timeYear": 846,
     "dailyMinutesDown": {
       "2021-10-08": 28
     }
