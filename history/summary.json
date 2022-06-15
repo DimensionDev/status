@@ -4,36 +4,39 @@
     "url": "https://mask.io",
     "icon": "https://favicons.githubusercontent.com/mask.io",
     "slug": "mask-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 112,
-    "timeWeek": 120,
+    "timeDay": 123,
+    "timeWeek": 122,
     "timeMonth": 139,
     "timeYear": 169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-15": 0
+    }
   },
   {
     "name": "Maskbook UnlockProtocol plugin server",
     "url": "https://unlock.r2d2.to",
     "icon": "https://favicons.githubusercontent.com/unlock.r2d2.to",
     "slug": "maskbook-unlock-protocol-plugin-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 819,
-    "timeDay": 928,
-    "timeWeek": 860,
-    "timeMonth": 865,
-    "timeYear": 819,
+    "time": 816,
+    "timeDay": 543,
+    "timeWeek": 772,
+    "timeMonth": 843,
+    "timeYear": 816,
     "dailyMinutesDown": {
+      "2022-06-15": 0,
       "2021-10-08": 28
     }
   }
