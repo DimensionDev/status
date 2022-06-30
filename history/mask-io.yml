@@ -1,7 +1,7 @@
 url: https://mask.io
-status: up
-code: 200
-responseTime: 89
-lastUpdated: 2022-06-30T04:49:36.430Z
+status: down
+code: 403
+responseTime: 169
+lastUpdated: 2022-06-30T05:29:22.806Z
 startTime: Wed Sep 22 2021 03:26:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
