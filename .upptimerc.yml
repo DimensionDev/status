@@ -22,7 +22,7 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
   __dangerous__body_degraded_if_text_missing: "true"
   assignees:
     - guanbinrui
@@ -67,7 +67,7 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
   __dangerous__body_degraded_if_text_missing: "true"
   assignees:
     - guanbinrui
@@ -76,7 +76,7 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
   __dangerous__body_degraded_if_text_missing: "true"
 - name: RPC server - Infura Matic Mainnet
   url: $INFURA_MATIC_MAINNET_RPC_URL
@@ -101,7 +101,7 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
   __dangerous__body_degraded_if_text_missing: "true"
   assignees:
     - guanbinrui
@@ -110,7 +110,7 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
   __dangerous__body_degraded_if_text_missing: "true"
   assignees:
     - guanbinrui
@@ -119,7 +119,7 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
   __dangerous__body_degraded_if_text_missing: "true"
   assignees:
     - guanbinrui
@@ -128,7 +128,7 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
   __dangerous__body_degraded_if_text_missing: "true"
   assignees:
     - guanbinrui
@@ -137,7 +137,7 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
   __dangerous__body_degraded_if_text_missing: "true"
   assignees:
     - guanbinrui
@@ -146,7 +146,7 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
   __dangerous__body_degraded_if_text_missing: "true"
   assignees:
     - guanbinrui
@@ -155,7 +155,7 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
   __dangerous__body_degraded_if_text_missing: "true"
   assignees:
     - guanbinrui
@@ -164,7 +164,7 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
   __dangerous__body_degraded_if_text_missing: "true"
   assignees:
     - guanbinrui
@@ -173,7 +173,7 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
   __dangerous__body_degraded_if_text_missing: "true"
   assignees:
     - guanbinrui
@@ -191,7 +191,7 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
   __dangerous__body_degraded_if_text_missing: "true"
   assignees:
     - guanbinrui
@@ -200,7 +200,7 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
   __dangerous__body_degraded_if_text_missing: "true"
   assignees:
     - guanbinrui
@@ -209,7 +209,7 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
   __dangerous__body_degraded_if_text_missing: "true"
   assignees:
     - guanbinrui
