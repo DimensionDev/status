@@ -7,6 +7,189 @@ sites:
   url: https://mask.io
 - name: Maskbook UnlockProtocol plugin server
   url: https://unlock.r2d2.to
+# RPC server used by Mask products
+- name: RPC server - Infura Mainnet
+  url: $INFURA_MAINNET_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  assignees:
+    - guanbinrui
+- name: RPC server - Quiknode Mainnet
+  url: $QUIKNODE_MAINNET_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  assignees:
+    - guanbinrui
+- name: RPC server - Infura Ropsten
+  url: $INFURA_ROPSTEN_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  assignees:
+    - guanbinrui
+- name: RPC server - Infura Rinkeby
+  url: $INFURA_RINKEBY_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  assignees:
+    - guanbinrui
+- name: RPC server - Infura Kovan
+  url: $INFURA_KOVAN_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  assignees:
+    - guanbinrui
+- name: RPC server - Infura Gorli
+  url: $INFURA_GORLI_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  assignees:
+    - guanbinrui
+- name: RPC server - Binance BSC
+  url: $BINANCE_BSC_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  assignees:
+    - guanbinrui
+- name: RPC server - Binance BSCT
+  url: $BINANCE_BSCT_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+- name: RPC server - Infura Matic Mainnet
+  url: $INFURA_MATIC_MAINNET_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  assignees:
+    - guanbinrui
+- name: RPC server - Infura Matic Mumbai
+  url: $INFURA_MATIC_MUMBAI_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  assignees:
+    - guanbinrui
+- name: RPC server - Arbitrum
+  url: $ARBITRUM_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  assignees:
+    - guanbinrui
+- name: RPC server - Arbitrum Rinkeby
+  url: $ARBITRUM_RINKEBY_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  assignees:
+    - guanbinrui
+- name: RPC server - xDai
+  url: $XDAI_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  assignees:
+    - guanbinrui
+- name: RPC server - Avalanche
+  url: $AVALANCHE_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  assignees:
+    - guanbinrui
+- name: RPC server - Avalanche Fuji
+  url: $AVALANCHE_FUJI_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  assignees:
+    - guanbinrui
+- name: RPC server - Celo
+  url: $CELO_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  assignees:
+    - guanbinrui
+- name: RPC server - Fantom
+  url: $FANTOM_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  assignees:
+    - guanbinrui
+- name: RPC server - Aurora
+  url: $AURORA_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  assignees:
+    - guanbinrui
+- name: RPC server - Aurora Testnet
+  url: $AURORA_TESTNET_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  assignees:
+    - guanbinrui
+- name: RPC server - Conflux
+  url: $CONFLUX_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  assignees:
+    - guanbinrui
+- name: RPC server - Harmony
+  url: $HARMONY_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  assignees:
+    - guanbinrui
+- name: RPC server - Harmony Test
+  url: $HARMONY_TEST_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  assignees:
+    - guanbinrui
+- name: RPC server - Astar
+  url: $ASTAR_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  assignees:
+    - guanbinrui
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
