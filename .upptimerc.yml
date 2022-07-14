@@ -101,8 +101,8 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
-  __dangerous__body_degraded_if_text_missing: "true"
+  body: '{"jsonrpc":"2.0","method":"eth_blockNumber","params":[],"id":42}'
+  __dangerous__body_degraded_if_text_missing: "0x"
   assignees:
     - guanbinrui
 - name: RPC server - Arbitrum Rinkeby
@@ -110,8 +110,8 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
-  __dangerous__body_degraded_if_text_missing: "true"
+  body: '{"jsonrpc":"2.0","method":"eth_blockNumber","params":[],"id":42}'
+  __dangerous__body_degraded_if_text_missing: "0x"
   assignees:
     - guanbinrui
 - name: RPC server - xDai
@@ -191,8 +191,8 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
-  __dangerous__body_degraded_if_text_missing: "true"
+  body: '{"jsonrpc":"2.0","method":"eth_blockNumber","params":[],"id":42}'
+  __dangerous__body_degraded_if_text_missing: "0x"
   assignees:
     - guanbinrui
 - name: RPC server - Harmony Test
@@ -200,8 +200,8 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
-  __dangerous__body_degraded_if_text_missing: "true"
+  body: '{"jsonrpc":"2.0","method":"eth_blockNumber","params":[],"id":42}'
+  __dangerous__body_degraded_if_text_missing: "0x"
   assignees:
     - guanbinrui
 - name: RPC server - Astar
