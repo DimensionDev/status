@@ -163,7 +163,7 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  body: '{"jsonrpc":"2.0","method":"eth_blockNumber","params":[],"id":42}'
   assignees:
     - guanbinrui
 - name: RPC server - Harmony
