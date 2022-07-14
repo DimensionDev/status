@@ -89,7 +89,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-14": 38
+      "2022-07-14": 47
     }
   },
   {
@@ -415,19 +415,19 @@
     "url": "$CONFLUX_RPC_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rpc-server-conflux",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1544,
-    "timeDay": 1544,
-    "timeWeek": 1544,
-    "timeMonth": 1544,
-    "timeYear": 1544,
+    "time": 1496,
+    "timeDay": 1496,
+    "timeWeek": 1496,
+    "timeMonth": 1496,
+    "timeYear": 1496,
     "dailyMinutesDown": {
-      "2022-07-14": 36
+      "2022-07-14": 44
     }
   },
   {
