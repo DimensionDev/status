@@ -13,7 +13,7 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
   assignees:
     - guanbinrui
 - name: RPC server - Quiknode Mainnet
@@ -29,7 +29,7 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
   assignees:
     - guanbinrui
 - name: RPC server - Infura Rinkeby
@@ -37,7 +37,7 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
   assignees:
     - guanbinrui
 - name: RPC server - Infura Kovan
@@ -45,7 +45,7 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
   assignees:
     - guanbinrui
 - name: RPC server - Infura Gorli
@@ -53,7 +53,7 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
   assignees:
     - guanbinrui
 - name: RPC server - Binance BSC
@@ -75,7 +75,7 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
   assignees:
     - guanbinrui
 - name: RPC server - Infura Matic Mumbai
@@ -83,7 +83,7 @@ sites:
   method: POST
   headers:
     - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[]}'
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
   assignees:
     - guanbinrui
 - name: RPC server - Arbitrum
