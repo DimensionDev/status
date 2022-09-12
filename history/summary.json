@@ -548,18 +548,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rpc-server-figment-solana",
     "status": "up",
-    "uptime": "83.92%",
-    "uptimeDay": "84.07%",
-    "uptimeWeek": "95.26%",
+    "uptime": "85.08%",
+    "uptimeDay": "84.54%",
+    "uptimeWeek": "95.25%",
     "uptimeMonth": "70.62%",
-    "uptimeYear": "83.92%",
+    "uptimeYear": "85.08%",
     "time": 324,
-    "timeDay": 287,
+    "timeDay": 297,
     "timeWeek": 311,
     "timeMonth": 295,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2022-09-12": 59,
+      "2022-09-12": 60,
       "2022-09-11": 318,
       "2022-09-10": 99,
       "2022-09-02": 391,
@@ -575,8 +575,7 @@
       "2022-08-23": 1093,
       "2022-08-22": 128,
       "2022-08-21": 9,
-      "2022-08-13": 31,
-      "2022-08-03": 999
+      "2022-08-13": 31
     }
   }
 ]
