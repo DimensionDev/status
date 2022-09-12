@@ -547,14 +547,14 @@
     "url": "$FIGMENT_SOLANA_RPC_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rpc-server-figment-solana",
-    "status": "up",
-    "uptime": "83.85%",
-    "uptimeDay": "84.51%",
+    "status": "degraded",
+    "uptime": "83.93%",
+    "uptimeDay": "86.03%",
     "uptimeWeek": "95.69%",
     "uptimeMonth": "70.72%",
-    "uptimeYear": "83.85%",
+    "uptimeYear": "83.93%",
     "time": 325,
-    "timeDay": 265,
+    "timeDay": 281,
     "timeWeek": 313,
     "timeMonth": 296,
     "timeYear": 325,
@@ -576,7 +576,7 @@
       "2022-08-22": 128,
       "2022-08-21": 9,
       "2022-08-13": 31,
-      "2022-08-03": 1072
+      "2022-08-03": 1016
     }
   }
 ]
