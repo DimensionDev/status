@@ -220,6 +220,12 @@ sites:
     - "Content-Type: application/json"
   body: '{"jsonrpc":"2.0","method":"getHealth","id":42}'
   __dangerous__body_degraded_if_text_missing: "ok"
+# API server used by Mask products
+- name: API - Rabby Token
+  url: $RABBY_TOKEN_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
