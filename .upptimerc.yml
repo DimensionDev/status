@@ -226,6 +226,12 @@ sites:
   method: GET
   assignees:
     - frontendgatekeeper
+# API server used by Mask products
+- name: API - Rabby NFT
+  url: $RABBY_NFT_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
