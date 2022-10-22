@@ -1,7 +1,7 @@
 url: $INFURA_KOVAN_RPC_URL
 status: degraded
 code: 410
-responseTime: 306
-lastUpdated: 2022-10-21T23:05:08.819Z
+responseTime: 197
+lastUpdated: 2022-10-22T23:05:06.916Z
 startTime: Thu Jul 14 2022 12:11:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
