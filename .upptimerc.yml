@@ -233,6 +233,189 @@ sites:
   assignees:
     - frontendgatekeeper
 
+# web-providers
+- name: NFT - Alchemy EVM
+  url: $AlchemyEVM_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+
+- name: NFT - Alchemy Flow
+  url: $AlchemyFlow_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+  assignees:
+    - frontendgatekeeper
+- name: GasPrice - Astar
+  url: $AstarGasnow_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+  assignees:
+    - frontendgatekeeper
+- name: Asset - Cloudflare
+  url: $CloudflareCDN_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+  assignees:
+    - frontendgatekeeper
+- name: NFT - Chainbase
+  url: $Chainbase_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+    - "X-API-KEY: YOUR_API_KEY"
+  assignees:
+    - frontendgatekeeper
+- name: Trending - CoinMarketCap Widge
+  url: $CmcWidget_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+  assignees:
+    - frontendgatekeeper
+- name: Trending - CoinMarketCap
+  url: $CmcHistorical_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+  assignees:
+    - frontendgatekeeper
+- name: Trending - CoinGecko
+  url: $Coingecko_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+  assignees:
+    - frontendgatekeeper
+- name: GasPrice - Debank
+  url: Debank_Gas_Price_Dict_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+  assignees:
+    - frontendgatekeeper
+- name: NFT - Debank
+  url: $Debian_All_Token_List_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+  assignees:
+    - frontendgatekeeper
+- name: NFT - Gem
+  url: $Gem_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+  assignees:
+    - frontendgatekeeper
+- name: Security - Gopluslabs
+  url: $Gopluslabs_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+  assignees:
+    - frontendgatekeeper
+- name: NFT - LooksRare
+  url: $Looksrare_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+  assignees:
+    - frontendgatekeeper
+- name: NFT - MagicEden
+  url: $MagicEden_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+  assignees:
+    - frontendgatekeeper
+- name: GasPrice - Metaswap
+  url: $Metaswap_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+  assignees:
+    - frontendgatekeeper
+- name: SNS - Minds
+  url: $Minds_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+  assignees:
+    - frontendgatekeeper
+- name: NFT - NFscan EVM
+  url: $NFscan_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+  assignees:
+    - frontendgatekeeper
+- name: NFT - NFTscan Solana
+  url: $NFTscan_Solana_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+  assignees:
+    - frontendgatekeeper
+- name: Trending - NFTScan
+  url: $NFTScan_Trending_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+  assignees:
+    - frontendgatekeeper
+- name: NFT - Opensea
+  url: $Opensea_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+  assignees:
+    - frontendgatekeeper
+- name: NFT - Rabby
+  url: $Rabby_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+  assignees:
+    - frontendgatekeeper
+- name: NFT - Rarible
+  url: $Rarible_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+    - "Origin: https://twitter.com"
+  assignees:
+    - frontendgatekeeper
+- name: Pricing - Token View
+  url: $Token_view_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+  assignees:
+    - frontendgatekeeper
+- name: NFT - X2Y2
+  url: $X2Y2_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+    - "x-sig: 8a8920fbe2f5dfe8b0ca60b1c2756f7980363e6a82bdcd143cf33ce49940411e"
+    - "x-nonce: 1666960301"
+    - "x-api-key: 8923f924-1f00-4a6a-b484-088e6ffed7f3"
+    - "x-kvv: 2"
+  assignees:
+    - frontendgatekeeper
+- name: NFT - Zora
+  url: $Zora_URL
+  method: GET
+  headers:
+    - "Content-Type: application/json"
+  assignees:
+    - frontendgatekeeper
+
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
