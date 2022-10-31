@@ -99,11 +99,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rpc-server-infura-ropsten",
     "status": "degraded",
-    "uptime": "82.19%",
+    "uptime": "82.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.86%",
+    "uptimeWeek": "94.35%",
     "uptimeMonth": "36.31%",
-    "uptimeYear": "82.19%",
+    "uptimeYear": "82.25%",
     "time": 238,
     "timeDay": 140,
     "timeWeek": 142,
@@ -140,11 +140,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rpc-server-infura-rinkeby",
     "status": "degraded",
-    "uptime": "82.19%",
+    "uptime": "82.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.86%",
+    "uptimeWeek": "94.35%",
     "uptimeMonth": "36.31%",
-    "uptimeYear": "82.19%",
+    "uptimeYear": "82.25%",
     "time": 194,
     "timeDay": 168,
     "timeWeek": 149,
@@ -181,11 +181,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rpc-server-infura-kovan",
     "status": "degraded",
-    "uptime": "82.19%",
+    "uptime": "82.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.86%",
+    "uptimeWeek": "94.35%",
     "uptimeMonth": "36.31%",
-    "uptimeYear": "82.19%",
+    "uptimeYear": "82.25%",
     "time": 195,
     "timeDay": 170,
     "timeWeek": 141,
@@ -617,11 +617,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rpc-server-figment-solana",
     "status": "up",
-    "uptime": "74.10%",
+    "uptime": "74.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.41%",
-    "uptimeYear": "74.10%",
+    "uptimeMonth": "96.67%",
+    "uptimeYear": "74.19%",
     "time": 320,
     "timeDay": 357,
     "timeWeek": 293,
@@ -702,7 +702,7 @@
     "timeMonth": 73,
     "timeYear": 73,
     "dailyMinutesDown": {
-      "2022-10-31": 284
+      "2022-10-31": 837
     }
   },
   {
@@ -722,7 +722,7 @@
     "timeMonth": 97,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2022-10-31": 284
+      "2022-10-31": 837
     }
   },
   {
@@ -760,7 +760,7 @@
     "timeMonth": 107,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2022-10-31": 284
+      "2022-10-31": 837
     }
   },
   {
@@ -859,18 +859,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-gem-nft",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 263,
     "timeDay": 263,
     "timeWeek": 263,
     "timeMonth": 263,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2022-10-31": 284
+      "2022-10-31": 837
     }
   },
   {
@@ -926,7 +926,7 @@
     "timeMonth": 237,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2022-10-31": 284
+      "2022-10-31": 837
     }
   },
   {
@@ -1024,19 +1024,19 @@
     "url": "$OPENSEA_NFT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-opensea-nft",
-    "status": "up",
-    "uptime": "88.22%",
-    "uptimeDay": "88.22%",
-    "uptimeWeek": "88.22%",
-    "uptimeMonth": "88.22%",
-    "uptimeYear": "88.22%",
-    "time": 310,
-    "timeDay": 310,
-    "timeWeek": 310,
-    "timeMonth": 310,
-    "timeYear": 310,
+    "status": "down",
+    "uptime": "95.92%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "95.92%",
+    "uptimeMonth": "95.92%",
+    "uptimeYear": "95.92%",
+    "time": 339,
+    "timeDay": 339,
+    "timeWeek": 339,
+    "timeMonth": 339,
+    "timeYear": 339,
     "dailyMinutesDown": {
-      "2022-10-31": 33
+      "2022-10-31": 34
     }
   },
   {
@@ -1063,11 +1063,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-rabby-nft",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
     "time": 492,
     "timeDay": 478,
     "timeWeek": 499,
@@ -1112,7 +1112,7 @@
     "timeMonth": 129,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2022-10-31": 284
+      "2022-10-31": 837
     }
   },
   {
@@ -1132,7 +1132,7 @@
     "timeMonth": 338,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2022-10-31": 284
+      "2022-10-31": 837
     }
   },
   {
