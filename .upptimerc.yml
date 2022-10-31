@@ -226,9 +226,134 @@ sites:
   method: GET
   assignees:
     - frontendgatekeeper
-# API server used by Mask products
+- name: API - Alchemy EVM NFT
+  url: $ALCHEMY_EVM_NFT_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+- name: API - Alchemy Flow NFT
+  url: $ALCHEMY_FLOW_NFT_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+- name: API - Astar Gas Price
+  url: $ASTAR_GAS_PRICE_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+- name: API - Chainbase NFT
+  url: $CHAINBASE_NFT_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+- name: API - CoinMarketCap Trending Widget
+  url: $COINMARKETCAP_TRENDING_WIDGET_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+- name: API - CoinMarketCap Trending
+  url: $COINMARKETCAP_TRENDING_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+- name: API - CoinGecko Trending
+  url: $COINGECKO_TRENDING_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+- name: API - Debank Gas Price Dict
+  url: $DEBANK_GAS_PRICE_DICT_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+- name: API - Debank NFT
+  url: $DEBANK_NFT_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+- name: API - Gem NFT
+  url: $GEM_NFT_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+- name: API - Gopluslabs Security
+  url: $GOPLUSLABS_SECURITY_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+- name: API - Looksrare NFT
+  url: $LOOKSRARE_NFT_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+- name: API - MagicEden NFT
+  url: $MAGICEDEN_NFT_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+- name: API - Metaswap Gas Price
+  url: $METASWAP_GAS_PRICE_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+- name: API - Minds SNS
+  url: $MINDS_SNS_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+- name: API - NFTScan EVM NFT
+  url: $NFTSCAN_EVM_NFT_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+- name: API - NFTScan Solana NFT
+  url: $NFTSCAN_SOLANA_NFT_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+- name: API - NFTScan Trending
+  url: $NFTSCAN_TRENDING_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+- name: API - Opensea NFT
+  url: $OPENSEA_NFT_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+- name: API - NFTScan Trending
+  url: $NFTSCAN_TRENDING_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
 - name: API - Rabby NFT
   url: $RABBY_NFT_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+- name: API - Rarible NFT
+  url: $RARIBLE_NFT_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+- name: API - Nomics Token View Pricing
+  url: $NOMICS_TOKEN_VIEW_PRICING_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+- name: API - X2Y2 NFT
+  url: $X2Y2_NFT_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+- name: API - Zora NFT
+  url: $ZORA_NFT_API_URL
+  method: GET
+  assignees:
+    - frontendgatekeeper
+# Assets
+- name: Assets - Cloudflare Images
+  url: $CLOUDFLARE_IMAGES_ASSETS_IMAGE_URL
   method: GET
   assignees:
     - frontendgatekeeper
