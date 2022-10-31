@@ -101,7 +101,7 @@
     "status": "degraded",
     "uptime": "82.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.35%",
+    "uptimeWeek": "94.42%",
     "uptimeMonth": "36.31%",
     "uptimeYear": "82.25%",
     "time": 238,
@@ -142,7 +142,7 @@
     "status": "degraded",
     "uptime": "82.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.35%",
+    "uptimeWeek": "94.42%",
     "uptimeMonth": "36.31%",
     "uptimeYear": "82.25%",
     "time": 194,
@@ -183,7 +183,7 @@
     "status": "degraded",
     "uptime": "82.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.35%",
+    "uptimeWeek": "94.42%",
     "uptimeMonth": "36.31%",
     "uptimeYear": "82.25%",
     "time": 195,
@@ -620,7 +620,7 @@
     "uptime": "74.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.67%",
+    "uptimeMonth": "96.69%",
     "uptimeYear": "74.19%",
     "time": 320,
     "timeDay": 357,
@@ -702,7 +702,7 @@
     "timeMonth": 73,
     "timeYear": 73,
     "dailyMinutesDown": {
-      "2022-10-31": 837
+      "2022-10-31": 844
     }
   },
   {
@@ -722,7 +722,7 @@
     "timeMonth": 97,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2022-10-31": 837
+      "2022-10-31": 844
     }
   },
   {
@@ -760,7 +760,7 @@
     "timeMonth": 107,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2022-10-31": 837
+      "2022-10-31": 844
     }
   },
   {
@@ -870,7 +870,7 @@
     "timeMonth": 263,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2022-10-31": 837
+      "2022-10-31": 844
     }
   },
   {
@@ -926,7 +926,7 @@
     "timeMonth": 237,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2022-10-31": 837
+      "2022-10-31": 844
     }
   },
   {
@@ -1024,19 +1024,19 @@
     "url": "$OPENSEA_NFT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-opensea-nft",
-    "status": "down",
-    "uptime": "95.92%",
-    "uptimeDay": "95.92%",
-    "uptimeWeek": "95.92%",
-    "uptimeMonth": "95.92%",
-    "uptimeYear": "95.92%",
-    "time": 339,
-    "timeDay": 339,
-    "timeWeek": 339,
-    "timeMonth": 339,
-    "timeYear": 339,
+    "status": "up",
+    "uptime": "95.19%",
+    "uptimeDay": "95.19%",
+    "uptimeWeek": "95.19%",
+    "uptimeMonth": "95.19%",
+    "uptimeYear": "95.19%",
+    "time": 345,
+    "timeDay": 345,
+    "timeWeek": 345,
+    "timeMonth": 345,
+    "timeYear": 345,
     "dailyMinutesDown": {
-      "2022-10-31": 34
+      "2022-10-31": 40
     }
   },
   {
@@ -1112,7 +1112,7 @@
     "timeMonth": 129,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2022-10-31": 837
+      "2022-10-31": 844
     }
   },
   {
@@ -1132,7 +1132,7 @@
     "timeMonth": 338,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2022-10-31": 837
+      "2022-10-31": 844
     }
   },
   {
