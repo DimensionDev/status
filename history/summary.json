@@ -140,11 +140,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rpc-server-infura-rinkeby",
     "status": "degraded",
-    "uptime": "82.33%",
+    "uptime": "82.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "36.31%",
-    "uptimeYear": "82.33%",
+    "uptimeYear": "82.34%",
     "time": 193,
     "timeDay": 95,
     "timeWeek": 154,
@@ -181,11 +181,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rpc-server-infura-kovan",
     "status": "degraded",
-    "uptime": "82.33%",
+    "uptime": "82.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "36.31%",
-    "uptimeYear": "82.33%",
+    "uptimeYear": "82.34%",
     "time": 194,
     "timeDay": 70,
     "timeWeek": 140,
@@ -620,7 +620,7 @@
     "uptime": "74.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.16%",
+    "uptimeMonth": "98.17%",
     "uptimeYear": "74.31%",
     "time": 320,
     "timeDay": 291,
@@ -702,7 +702,7 @@
     "timeMonth": 96,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2022-11-01": 472,
+      "2022-11-01": 479,
       "2022-10-31": 1081
     }
   },
@@ -723,7 +723,7 @@
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2022-11-01": 472,
+      "2022-11-01": 479,
       "2022-10-31": 1081
     }
   },
@@ -762,7 +762,7 @@
     "timeMonth": 154,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2022-11-01": 472,
+      "2022-11-01": 479,
       "2022-10-31": 1081
     }
   },
@@ -873,7 +873,7 @@
     "timeMonth": 284,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2022-11-01": 472,
+      "2022-11-01": 479,
       "2022-10-31": 1080
     }
   },
@@ -930,7 +930,7 @@
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2022-11-01": 472,
+      "2022-11-01": 479,
       "2022-10-31": 1080
     }
   },
@@ -1029,19 +1029,19 @@
     "url": "$OPENSEA_NFT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-opensea-nft",
-    "status": "down",
-    "uptime": "92.02%",
-    "uptimeDay": "92.39%",
-    "uptimeWeek": "92.02%",
-    "uptimeMonth": "92.02%",
-    "uptimeYear": "92.02%",
+    "status": "up",
+    "uptime": "91.66%",
+    "uptimeDay": "91.96%",
+    "uptimeWeek": "91.66%",
+    "uptimeMonth": "91.66%",
+    "uptimeYear": "91.66%",
     "time": 338,
     "timeDay": 341,
     "timeWeek": 338,
     "timeMonth": 338,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2022-11-01": 56,
+      "2022-11-01": 62,
       "2022-10-31": 68
     }
   },
@@ -1118,7 +1118,7 @@
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2022-11-01": 472,
+      "2022-11-01": 479,
       "2022-10-31": 1080
     }
   },
@@ -1139,7 +1139,7 @@
     "timeMonth": 346,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2022-11-01": 472,
+      "2022-11-01": 479,
       "2022-10-31": 1080
     }
   },
