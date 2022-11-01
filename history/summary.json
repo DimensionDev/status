@@ -620,7 +620,7 @@
     "uptime": "74.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.58%",
+    "uptimeMonth": "98.60%",
     "uptimeYear": "74.34%",
     "time": 320,
     "timeDay": 291,
@@ -691,11 +691,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-alchemy-evm-nft",
     "status": "up",
-    "uptime": "7.69%",
-    "uptimeDay": "9.29%",
-    "uptimeWeek": "7.69%",
-    "uptimeMonth": "7.69%",
-    "uptimeYear": "7.69%",
+    "uptime": "8.13%",
+    "uptimeDay": "9.87%",
+    "uptimeWeek": "8.13%",
+    "uptimeMonth": "8.13%",
+    "uptimeYear": "8.13%",
     "time": 88,
     "timeDay": 96,
     "timeWeek": 88,
@@ -712,11 +712,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-alchemy-flow-nft",
     "status": "up",
-    "uptime": "7.69%",
-    "uptimeDay": "9.29%",
-    "uptimeWeek": "7.69%",
-    "uptimeMonth": "7.69%",
-    "uptimeYear": "7.69%",
+    "uptime": "8.13%",
+    "uptimeDay": "9.87%",
+    "uptimeWeek": "8.13%",
+    "uptimeMonth": "8.13%",
+    "uptimeYear": "8.13%",
     "time": 143,
     "timeDay": 166,
     "timeWeek": 143,
@@ -762,7 +762,7 @@
     "timeMonth": 154,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2022-11-01": 659,
+      "2022-11-01": 668,
       "2022-10-31": 1081
     }
   },
@@ -873,7 +873,7 @@
     "timeMonth": 284,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2022-11-01": 659,
+      "2022-11-01": 668,
       "2022-10-31": 1080
     }
   },
@@ -930,7 +930,7 @@
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2022-11-01": 659,
+      "2022-11-01": 668,
       "2022-10-31": 1080
     }
   },
@@ -1029,19 +1029,19 @@
     "url": "$OPENSEA_NFT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-opensea-nft",
-    "status": "down",
-    "uptime": "91.21%",
-    "uptimeDay": "91.71%",
-    "uptimeWeek": "91.21%",
-    "uptimeMonth": "91.21%",
-    "uptimeYear": "91.21%",
-    "time": 333,
-    "timeDay": 341,
-    "timeWeek": 333,
-    "timeMonth": 333,
-    "timeYear": 333,
+    "status": "up",
+    "uptime": "90.82%",
+    "uptimeDay": "91.18%",
+    "uptimeWeek": "90.82%",
+    "uptimeMonth": "90.82%",
+    "uptimeYear": "90.82%",
+    "time": 326,
+    "timeDay": 332,
+    "timeWeek": 326,
+    "timeMonth": 326,
+    "timeYear": 326,
     "dailyMinutesDown": {
-      "2022-11-01": 86,
+      "2022-11-01": 93,
       "2022-10-31": 68
     }
   },
@@ -1118,7 +1118,7 @@
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2022-11-01": 659,
+      "2022-11-01": 668,
       "2022-10-31": 1080
     }
   },
@@ -1139,7 +1139,7 @@
     "timeMonth": 346,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2022-11-01": 659,
+      "2022-11-01": 668,
       "2022-10-31": 1080
     }
   },
