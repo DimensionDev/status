@@ -620,11 +620,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rpc-server-figment-solana",
     "status": "up",
-    "uptime": "74.64%",
+    "uptime": "74.65%",
     "uptimeDay": "87.63%",
     "uptimeWeek": "98.23%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "74.64%",
+    "uptimeYear": "74.65%",
     "time": 323,
     "timeDay": 364,
     "timeWeek": 354,
@@ -694,18 +694,19 @@
     "url": "$ALCHEMY_EVM_NFT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-alchemy-evm-nft",
-    "status": "up",
-    "uptime": "55.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "55.98%",
-    "uptimeMonth": "55.98%",
-    "uptimeYear": "55.98%",
-    "time": 88,
-    "timeDay": 0,
-    "timeWeek": 88,
-    "timeMonth": 88,
-    "timeYear": 88,
+    "status": "down",
+    "uptime": "56.12%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "56.12%",
+    "uptimeMonth": "56.12%",
+    "uptimeYear": "56.12%",
+    "time": 99,
+    "timeDay": 132,
+    "timeWeek": 99,
+    "timeMonth": 99,
+    "timeYear": 99,
     "dailyMinutesDown": {
+      "2022-11-02": 2,
       "2022-11-01": 525,
       "2022-10-31": 1081
     }
@@ -715,19 +716,19 @@
     "url": "$ALCHEMY_FLOW_NFT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-alchemy-flow-nft",
-    "status": "up",
-    "uptime": "52.68%",
-    "uptimeDay": "91.65%",
-    "uptimeWeek": "52.68%",
-    "uptimeMonth": "52.68%",
-    "uptimeYear": "52.68%",
-    "time": 2700,
-    "timeDay": 6536,
-    "timeWeek": 2700,
-    "timeMonth": 2700,
-    "timeYear": 2700,
+    "status": "down",
+    "uptime": "52.84%",
+    "uptimeDay": "91.52%",
+    "uptimeWeek": "52.84%",
+    "uptimeMonth": "52.84%",
+    "uptimeYear": "52.84%",
+    "time": 2293,
+    "timeDay": 4443,
+    "timeWeek": 2293,
+    "timeMonth": 2293,
+    "timeYear": 2293,
     "dailyMinutesDown": {
-      "2022-11-02": 120,
+      "2022-11-02": 122,
       "2022-11-01": 525,
       "2022-10-31": 1081
     }
@@ -767,7 +768,7 @@
     "timeMonth": 154,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2022-11-02": 1128,
+      "2022-11-02": 1144,
       "2022-11-01": 1440,
       "2022-10-31": 1081
     }
@@ -879,7 +880,7 @@
     "timeMonth": 284,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2022-11-02": 1128,
+      "2022-11-02": 1144,
       "2022-11-01": 1440,
       "2022-10-31": 1080
     }
@@ -937,7 +938,7 @@
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2022-11-02": 1128,
+      "2022-11-02": 1144,
       "2022-11-01": 1440,
       "2022-10-31": 1080
     }
@@ -1020,18 +1021,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-nft-scan-trending",
     "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.26%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.26%",
     "time": 592,
     "timeDay": 0,
     "timeWeek": 592,
     "timeMonth": 592,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2022-11-02": 12
+      "2022-11-02": 27
     }
   },
   {
@@ -1040,11 +1041,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-opensea-nft",
     "status": "up",
-    "uptime": "85.46%",
-    "uptimeDay": "81.06%",
-    "uptimeWeek": "85.46%",
-    "uptimeMonth": "85.46%",
-    "uptimeYear": "85.46%",
+    "uptime": "85.53%",
+    "uptimeDay": "82.14%",
+    "uptimeWeek": "85.53%",
+    "uptimeMonth": "85.53%",
+    "uptimeYear": "85.53%",
     "time": 349,
     "timeDay": 370,
     "timeWeek": 349,
@@ -1062,18 +1063,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-nft-scan-trending",
     "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.26%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.26%",
     "time": 592,
     "timeDay": 0,
     "timeWeek": 592,
     "timeMonth": 592,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2022-11-02": 12
+      "2022-11-02": 27
     }
   },
   {
@@ -1132,7 +1133,7 @@
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2022-11-02": 1128,
+      "2022-11-02": 1144,
       "2022-11-01": 1440,
       "2022-10-31": 1080
     }
@@ -1143,11 +1144,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-x2-y2-nft",
     "status": "up",
-    "uptime": "21.09%",
-    "uptimeDay": "53.42%",
-    "uptimeWeek": "21.09%",
-    "uptimeMonth": "21.09%",
-    "uptimeYear": "21.09%",
+    "uptime": "21.42%",
+    "uptimeDay": "54.50%",
+    "uptimeWeek": "21.42%",
+    "uptimeMonth": "21.42%",
+    "uptimeYear": "21.42%",
     "time": 504,
     "timeDay": 821,
     "timeWeek": 504,
