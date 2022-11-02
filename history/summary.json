@@ -687,11 +687,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-alchemy-evm-nft",
     "status": "up",
-    "uptime": "58.53%",
+    "uptime": "58.59%",
     "uptimeDay": "99.38%",
-    "uptimeWeek": "58.53%",
-    "uptimeMonth": "58.53%",
-    "uptimeYear": "58.53%",
+    "uptimeWeek": "58.59%",
+    "uptimeMonth": "58.59%",
+    "uptimeYear": "58.59%",
     "time": 119,
     "timeDay": 164,
     "timeWeek": 119,
@@ -709,11 +709,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-alchemy-flow-nft",
     "status": "up",
-    "uptime": "55.44%",
+    "uptime": "55.50%",
     "uptimeDay": "91.03%",
-    "uptimeWeek": "55.44%",
-    "uptimeMonth": "55.44%",
-    "uptimeYear": "55.44%",
+    "uptimeWeek": "55.50%",
+    "uptimeMonth": "55.50%",
+    "uptimeYear": "55.50%",
     "time": 2067,
     "timeDay": 3510,
     "timeWeek": 2067,
@@ -760,7 +760,7 @@
     "timeMonth": 154,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2022-11-02": 1373,
+      "2022-11-02": 1379,
       "2022-11-01": 1440,
       "2022-10-31": 1081
     }
@@ -874,7 +874,7 @@
     "timeMonth": 284,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2022-11-02": 1373,
+      "2022-11-02": 1379,
       "2022-11-01": 1440,
       "2022-10-31": 1080
     }
@@ -932,7 +932,7 @@
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2022-11-02": 1373,
+      "2022-11-02": 1379,
       "2022-11-01": 1440,
       "2022-10-31": 1080
     }
@@ -1015,18 +1015,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-nft-scan-trending",
     "status": "down",
-    "uptime": "93.40%",
-    "uptimeDay": "82.16%",
-    "uptimeWeek": "93.40%",
-    "uptimeMonth": "93.40%",
-    "uptimeYear": "93.40%",
+    "uptime": "93.26%",
+    "uptimeDay": "81.75%",
+    "uptimeWeek": "93.26%",
+    "uptimeMonth": "93.26%",
+    "uptimeYear": "93.26%",
     "time": 592,
     "timeDay": 0,
     "timeWeek": 592,
     "timeMonth": 592,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2022-11-02": 257
+      "2022-11-02": 263
     }
   },
   {
@@ -1034,19 +1034,19 @@
     "url": "$OPENSEA_NFT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-opensea-nft",
-    "status": "down",
-    "uptime": "85.82%",
-    "uptimeDay": "86.49%",
-    "uptimeWeek": "85.82%",
-    "uptimeMonth": "85.82%",
-    "uptimeYear": "85.82%",
-    "time": 351,
-    "timeDay": 370,
-    "timeWeek": 351,
-    "timeMonth": 351,
-    "timeYear": 351,
+    "status": "up",
+    "uptime": "85.72%",
+    "uptimeDay": "86.56%",
+    "uptimeWeek": "85.72%",
+    "uptimeMonth": "85.72%",
+    "uptimeYear": "85.72%",
+    "time": 350,
+    "timeDay": 368,
+    "timeWeek": 350,
+    "timeMonth": 350,
+    "timeYear": 350,
     "dailyMinutesDown": {
-      "2022-11-02": 185,
+      "2022-11-02": 190,
       "2022-11-01": 300,
       "2022-10-31": 68
     }
@@ -1057,18 +1057,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-nft-scan-trending",
     "status": "down",
-    "uptime": "93.40%",
-    "uptimeDay": "82.16%",
-    "uptimeWeek": "93.40%",
-    "uptimeMonth": "93.40%",
-    "uptimeYear": "93.40%",
+    "uptime": "93.26%",
+    "uptimeDay": "81.75%",
+    "uptimeWeek": "93.26%",
+    "uptimeMonth": "93.26%",
+    "uptimeYear": "93.26%",
     "time": 592,
     "timeDay": 0,
     "timeWeek": 592,
     "timeMonth": 592,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2022-11-02": 257
+      "2022-11-02": 263
     }
   },
   {
@@ -1127,7 +1127,7 @@
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2022-11-02": 1373,
+      "2022-11-02": 1379,
       "2022-11-01": 1440,
       "2022-10-31": 1080
     }
@@ -1138,11 +1138,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-x2-y2-nft",
     "status": "up",
-    "uptime": "26.06%",
-    "uptimeDay": "70.46%",
-    "uptimeWeek": "26.06%",
-    "uptimeMonth": "26.06%",
-    "uptimeYear": "26.06%",
+    "uptime": "26.17%",
+    "uptimeDay": "70.86%",
+    "uptimeWeek": "26.17%",
+    "uptimeMonth": "26.17%",
+    "uptimeYear": "26.17%",
     "time": 504,
     "timeDay": 821,
     "timeWeek": 504,
