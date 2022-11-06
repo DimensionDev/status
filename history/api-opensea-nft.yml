@@ -1,7 +1,7 @@
 url: $OPENSEA_NFT_API_URL
-status: down
-code: 429
-responseTime: 601
-lastUpdated: 2022-11-06T05:54:04.227Z
+status: up
+code: 200
+responseTime: 309
+lastUpdated: 2022-11-06T06:00:31.582Z
 startTime: Mon Oct 31 2022 05:59:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
