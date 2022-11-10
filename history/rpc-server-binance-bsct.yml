@@ -1,7 +1,7 @@
 url: $BINANCE_BSCT_RPC_URL
-status: degraded
-code: 0
-responseTime: 0
-lastUpdated: 2022-11-10T17:57:03.629Z
+status: up
+code: 200
+responseTime: 22875
+lastUpdated: 2022-11-10T18:14:31.100Z
 startTime: Thu Jul 14 2022 12:11:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
