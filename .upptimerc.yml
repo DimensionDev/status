@@ -239,6 +239,8 @@ sites:
 - name: API - Chainbase NFT
   url: $CHAINBASE_NFT_API_URL
   method: GET
+  headers:
+    - "X-API-KEY: $CHAINBASE_NFT_API_X_API_KEY"
   assignees:
     - frontendgatekeeper
 - name: API - CoinMarketCap Trending Widget
@@ -269,6 +271,8 @@ sites:
 - name: API - Gem NFT
   url: $GEM_NFT_API_URL
   method: GET
+  headers:
+    - "x-api-key: $GEM_NFT_API_X_API_KEY"
   assignees:
     - frontendgatekeeper
 - name: API - Gopluslabs Security
