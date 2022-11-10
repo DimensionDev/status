@@ -231,11 +231,6 @@ sites:
   method: GET
   assignees:
     - frontendgatekeeper
-- name: API - Alchemy Flow NFT
-  url: $ALCHEMY_FLOW_NFT_API_URL
-  method: GET
-  assignees:
-    - frontendgatekeeper
 - name: API - Astar Gas Price
   url: $ASTAR_GAS_PRICE_API_URL
   method: GET
@@ -286,11 +281,6 @@ sites:
   method: GET
   assignees:
     - frontendgatekeeper
-- name: API - MagicEden NFT
-  url: $MAGICEDEN_NFT_API_URL
-  method: GET
-  assignees:
-    - frontendgatekeeper
 - name: API - Metaswap Gas Price
   url: $METASWAP_GAS_PRICE_API_URL
   method: GET
@@ -333,11 +323,6 @@ sites:
     - frontendgatekeeper
 - name: API - Rarible NFT
   url: $RARIBLE_NFT_API_URL
-  method: GET
-  assignees:
-    - frontendgatekeeper
-- name: API - Nomics Token View Pricing
-  url: $NOMICS_TOKEN_VIEW_PRICING_API_URL
   method: GET
   assignees:
     - frontendgatekeeper
