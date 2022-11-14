@@ -1,7 +1,7 @@
 url: $FIGMENT_SOLANA_RPC_URL
 status: degraded
 code: 429
-responseTime: 240
-lastUpdated: 2022-11-14T19:43:42.274Z
+responseTime: 293
+lastUpdated: 2022-11-14T23:05:04.817Z
 startTime: Thu Jul 14 2022 14:26:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
