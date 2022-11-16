@@ -71,13 +71,6 @@ sites:
   __dangerous__body_degraded_if_text_missing: "true"
   assignees:
     - frontendgatekeeper
-- name: RPC server - Binance BSCT
-  url: $BINANCE_BSCT_RPC_URL
-  method: POST
-  headers:
-    - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
-  __dangerous__body_degraded_if_text_missing: "true"
 - name: RPC server - Infura Matic Mainnet
   url: $INFURA_MATIC_MAINNET_RPC_URL
   method: POST
@@ -213,13 +206,6 @@ sites:
   __dangerous__body_degraded_if_text_missing: "true"
   assignees:
     - frontendgatekeeper
-- name: RPC server - Figment Solana
-  url: $FIGMENT_SOLANA_RPC_URL
-  method: POST
-  headers:
-    - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"getHealth","id":42}'
-  __dangerous__body_degraded_if_text_missing: "ok"
 # API server used by Mask products
 - name: API - Rabby Token
   url: $RABBY_TOKEN_API_URL
@@ -307,11 +293,6 @@ sites:
     - frontendgatekeeper
 - name: API - NFTScan Trending
   url: $NFTSCAN_TRENDING_API_URL
-  method: GET
-  assignees:
-    - frontendgatekeeper
-- name: API - Opensea NFT
-  url: $OPENSEA_NFT_API_URL
   method: GET
   assignees:
     - frontendgatekeeper
