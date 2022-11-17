@@ -1,7 +1,7 @@
 url: $ARBITRUM_RINKEBY_RPC_URL
-status: degraded
-code: 0
-responseTime: 0
-lastUpdated: 2022-11-17T17:03:06.279Z
+status: up
+code: 200
+responseTime: 299
+lastUpdated: 2022-11-17T17:40:49.188Z
 startTime: Thu Jul 14 2022 12:11:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
