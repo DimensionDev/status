@@ -1,7 +1,7 @@
 url: $X2Y2_NFT_API_URL
-status: down
-code: 429
-responseTime: 759
-lastUpdated: 2022-11-24T03:13:28.396Z
+status: up
+code: 200
+responseTime: 975
+lastUpdated: 2022-11-24T03:26:38.374Z
 startTime: Mon Oct 31 2022 05:59:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
