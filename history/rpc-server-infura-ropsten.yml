@@ -1,7 +1,7 @@
 url: $INFURA_ROPSTEN_RPC_URL
 status: degraded
 code: 410
-responseTime: 370
-lastUpdated: 2022-11-29T23:05:13.125Z
+responseTime: 584
+lastUpdated: 2022-11-30T23:05:08.905Z
 startTime: Thu Jul 14 2022 12:10:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
