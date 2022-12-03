@@ -1,7 +1,7 @@
 url: $TWITTER_IDENTITY_API_URL
-status: up
-code: 200
-responseTime: 270
-lastUpdated: 2022-12-03T12:53:50.924Z
+status: down
+code: 502
+responseTime: 144
+lastUpdated: 2022-12-03T14:35:32.950Z
 startTime: Tue Nov 08 2022 02:49:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
