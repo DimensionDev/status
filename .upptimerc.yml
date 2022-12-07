@@ -7,6 +7,13 @@ sites:
   url: https://mask.io
 - name: Maskbook UnlockProtocol plugin server
   url: https://unlock.r2d2.to
+# Mastodon Instances
+- name: mastodon.cloud
+  url: https://mastodon.cloud/health
+  __dangerous__body_degraded_if_text_missing: "OK"
+- name: mstdn.jp
+  url: https://mstdn.jp/health
+  __dangerous__body_degraded_if_text_missing: "OK"
 # RPC server used by Mask products
 - name: RPC server - Infura Mainnet
   url: $INFURA_MAINNET_RPC_URL
