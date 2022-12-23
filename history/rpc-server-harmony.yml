@@ -1,7 +1,7 @@
 url: $HARMONY_RPC_URL
-status: degraded
-code: 404
-responseTime: 195
-lastUpdated: 2022-12-23T20:04:45.425Z
+status: up
+code: 200
+responseTime: 385
+lastUpdated: 2022-12-23T20:14:06.682Z
 startTime: Thu Jul 14 2022 12:11:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
