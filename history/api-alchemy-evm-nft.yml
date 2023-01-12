@@ -1,7 +1,7 @@
 url: $ALCHEMY_EVM_NFT_API_URL
-status: up
-code: 200
-responseTime: 170
-lastUpdated: 2023-01-12T04:57:00.840Z
+status: down
+code: 429
+responseTime: 33
+lastUpdated: 2023-01-12T05:49:06.449Z
 startTime: Mon Oct 31 2022 05:59:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
