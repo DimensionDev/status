@@ -1,7 +1,7 @@
 url: $INFURA_RINKEBY_RPC_URL
 status: degraded
 code: 410
-responseTime: 320
-lastUpdated: 2023-01-20T23:05:04.253Z
+responseTime: 354
+lastUpdated: 2023-01-21T23:05:02.145Z
 startTime: Thu Jul 14 2022 12:11:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
