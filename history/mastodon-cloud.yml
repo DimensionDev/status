@@ -1,7 +1,7 @@
 url: https://mastodon.cloud/health
-status: degraded
-code: 0
-responseTime: 0
-lastUpdated: 2023-01-22T02:11:03.167Z
+status: up
+code: 200
+responseTime: 435
+lastUpdated: 2023-01-22T02:36:08.071Z
 startTime: Wed Dec 07 2022 06:45:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
