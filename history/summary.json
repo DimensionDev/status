@@ -386,7 +386,7 @@
     "timeMonth": 0,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2023-02-02": 435,
+      "2023-02-02": 443,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
@@ -746,19 +746,19 @@
     "url": "$ALCHEMY_EVM_NFT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-alchemy-evm-nft",
-    "status": "up",
-    "uptime": "83.29%",
-    "uptimeDay": "17.89%",
-    "uptimeWeek": "18.07%",
-    "uptimeMonth": "48.35%",
-    "uptimeYear": "83.29%",
+    "status": "down",
+    "uptime": "83.30%",
+    "uptimeDay": "18.38%",
+    "uptimeWeek": "18.14%",
+    "uptimeMonth": "48.37%",
+    "uptimeYear": "83.30%",
     "time": 159,
-    "timeDay": 173,
-    "timeWeek": 158,
+    "timeDay": 175,
+    "timeWeek": 159,
     "timeMonth": 157,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2023-02-02": 434,
+      "2023-02-02": 435,
       "2023-02-01": 992,
       "2023-01-31": 894,
       "2023-01-30": 979,
@@ -777,7 +777,7 @@
       "2023-01-17": 924,
       "2023-01-16": 1171,
       "2023-01-15": 1158,
-      "2023-01-14": 806
+      "2023-01-14": 795
     }
   },
   {
