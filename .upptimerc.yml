@@ -219,11 +219,6 @@ sites:
   method: GET
   assignees:
     - frontendgatekeeper
-- name: API - Alchemy EVM NFT
-  url: $ALCHEMY_EVM_NFT_API_URL
-  method: GET
-  assignees:
-    - frontendgatekeeper
 - name: API - Astar Gas Price
   url: $ASTAR_GAS_PRICE_API_URL
   method: GET
