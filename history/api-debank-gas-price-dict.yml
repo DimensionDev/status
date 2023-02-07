@@ -1,7 +1,7 @@
 url: $DEBANK_GAS_PRICE_DICT_API_URL
 status: up
 code: 200
-responseTime: 319
-lastUpdated: 2023-02-06T23:05:16.667Z
+responseTime: 425
+lastUpdated: 2023-02-07T23:05:08.515Z
 startTime: Mon Oct 31 2022 05:59:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
