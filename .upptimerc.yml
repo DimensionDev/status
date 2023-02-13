@@ -213,6 +213,15 @@ sites:
   __dangerous__body_degraded_if_text_missing: "true"
   assignees:
     - frontendgatekeeper
+- name: RPC server - Optimism
+  url: $OPTIMISM_RPC_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"
+  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
+  __dangerous__body_degraded_if_text_missing: "true"
+  assignees:
+    - frontendgatekeeper
 # API server used by Mask products
 - name: API - Rabby Token
   url: $RABBY_TOKEN_API_URL
