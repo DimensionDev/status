@@ -386,7 +386,7 @@
     "timeMonth": 0,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2023-02-13": 657,
+      "2023-02-13": 683,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
@@ -510,6 +510,24 @@
     "dailyMinutesDown": {
       "2023-01-22": 23
     }
+  },
+  {
+    "name": "RPC server - Optimism",
+    "url": "$OPTIMISM_RPC_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "rpc-server-optimism",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   },
   {
     "name": "RPC server - Celo",
@@ -781,11 +799,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-chainbase-nft",
     "status": "up",
-    "uptime": "90.55%",
+    "uptime": "90.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.55%",
+    "uptimeYear": "90.56%",
     "time": 269,
     "timeDay": 252,
     "timeWeek": 240,
