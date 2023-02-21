@@ -1,7 +1,7 @@
 url: $METASWAP_GAS_PRICE_API_URL
 status: up
 code: 200
-responseTime: 139
-lastUpdated: 2023-02-20T23:05:10.035Z
+responseTime: 123
+lastUpdated: 2023-02-21T23:05:25.246Z
 startTime: Mon Oct 31 2022 05:59:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
