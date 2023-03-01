@@ -267,11 +267,7 @@ sites:
     - frontendgatekeeper
 - name: API - RSS3 Domain
   url: $RSS3_DOMAIN_API_URL
-  method: POST
-  headers:
-    - "Content-Type: application/json"
-  body: '{"query":"query Query { ping }"}'
-  __dangerous__body_degraded_if_text_missing: "pong"
+  method: GET
   assignees:
     - frontendgatekeeper
 
