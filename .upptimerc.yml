@@ -338,7 +338,7 @@ sites:
   assignees:
     - frontendgatekeeper
 - name: API - Lens
-  url: https://api.lens.dev/
+  url: $LENS_API_URL
   method: POST
   headers:
     - "Content-Type: application/json"
