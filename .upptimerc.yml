@@ -33,42 +33,6 @@ sites:
   __dangerous__body_degraded_if_text_missing: "true"
   assignees:
     - frontendgatekeeper
-- name: RPC server - Infura Ropsten
-  url: $INFURA_ROPSTEN_RPC_URL
-  method: POST
-  headers:
-    - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
-  __dangerous__body_degraded_if_text_missing: "true"
-  assignees:
-    - frontendgatekeeper
-- name: RPC server - Infura Rinkeby
-  url: $INFURA_RINKEBY_RPC_URL
-  method: POST
-  headers:
-    - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
-  __dangerous__body_degraded_if_text_missing: "true"
-  assignees:
-    - frontendgatekeeper
-- name: RPC server - Infura Kovan
-  url: $INFURA_KOVAN_RPC_URL
-  method: POST
-  headers:
-    - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
-  __dangerous__body_degraded_if_text_missing: "true"
-  assignees:
-    - frontendgatekeeper
-- name: RPC server - Infura Gorli
-  url: $INFURA_GORLI_RPC_URL
-  method: POST
-  headers:
-    - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
-  __dangerous__body_degraded_if_text_missing: "true"
-  assignees:
-    - frontendgatekeeper
 - name: RPC server - Binance BSC
   url: $BINANCE_BSC_RPC_URL
   method: POST
@@ -87,26 +51,8 @@ sites:
   __dangerous__body_degraded_if_text_missing: "true"
   assignees:
     - frontendgatekeeper
-- name: RPC server - Infura Matic Mumbai
-  url: $INFURA_MATIC_MUMBAI_RPC_URL
-  method: POST
-  headers:
-    - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
-  __dangerous__body_degraded_if_text_missing: "true"
-  assignees:
-    - frontendgatekeeper
 - name: RPC server - Arbitrum
   url: $ARBITRUM_RPC_URL
-  method: POST
-  headers:
-    - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"eth_blockNumber","params":[],"id":42}'
-  __dangerous__body_degraded_if_text_missing: "0x"
-  assignees:
-    - frontendgatekeeper
-- name: RPC server - Arbitrum Rinkeby
-  url: $ARBITRUM_RINKEBY_RPC_URL
   method: POST
   headers:
     - "Content-Type: application/json"
@@ -125,15 +71,6 @@ sites:
     - frontendgatekeeper
 - name: RPC server - Avalanche
   url: $AVALANCHE_RPC_URL
-  method: POST
-  headers:
-    - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
-  __dangerous__body_degraded_if_text_missing: "true"
-  assignees:
-    - frontendgatekeeper
-- name: RPC server - Avalanche Fuji
-  url: $AVALANCHE_FUJI_RPC_URL
   method: POST
   headers:
     - "Content-Type: application/json"
@@ -168,15 +105,6 @@ sites:
   __dangerous__body_degraded_if_text_missing: "true"
   assignees:
     - frontendgatekeeper
-- name: RPC server - Aurora Testnet
-  url: $AURORA_TESTNET_RPC_URL
-  method: POST
-  headers:
-    - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":42}'
-  __dangerous__body_degraded_if_text_missing: "true"
-  assignees:
-    - frontendgatekeeper
 - name: RPC server - Conflux
   url: $CONFLUX_RPC_URL
   method: POST
@@ -188,15 +116,6 @@ sites:
     - frontendgatekeeper
 - name: RPC server - Harmony
   url: $HARMONY_RPC_URL
-  method: POST
-  headers:
-    - "Content-Type: application/json"
-  body: '{"jsonrpc":"2.0","method":"eth_blockNumber","params":[],"id":42}'
-  __dangerous__body_degraded_if_text_missing: "0x"
-  assignees:
-    - frontendgatekeeper
-- name: RPC server - Harmony Test
-  url: $HARMONY_TEST_RPC_URL
   method: POST
   headers:
     - "Content-Type: application/json"
