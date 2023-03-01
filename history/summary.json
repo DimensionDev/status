@@ -388,7 +388,7 @@
     "timeMonth": 0,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2023-03-01": 784,
+      "2023-03-01": 785,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
       "2023-02-26": 1440,
@@ -1402,9 +1402,9 @@
     "slug": "api-lens",
     "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 508,
     "timeDay": 457,
@@ -1412,7 +1412,7 @@
     "timeMonth": 548,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2023-03-01": 1
+      "2023-03-01": 3
     }
   },
   {
@@ -1421,18 +1421,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-rss-3-domain",
     "status": "degraded",
-    "uptime": "0.55%",
-    "uptimeDay": "0.55%",
-    "uptimeWeek": "0.55%",
-    "uptimeMonth": "0.55%",
-    "uptimeYear": "0.55%",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
     "time": 255,
     "timeDay": 255,
     "timeWeek": 255,
     "timeMonth": 255,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2023-03-01": 3
+      "2023-03-01": 5
     }
   },
   {
