@@ -270,6 +270,15 @@ sites:
   method: GET
   assignees:
     - frontendgatekeeper
+- name: API - Relation Service
+  url: $RELATION_SERVICE_API_URL
+  method: POST
+  headers:
+    - "Content-Type: application/json"  
+  __dangerous__body_degraded_if_text_missing: "true"
+  body: '{"operationName": "GET_PROFILES_QUERY", "variables": {"platform": "ethereum", "identity": "_"}, "query": "query GET_PROFILES_QUERY($platform: String, $identity: String) { identity(platform: $platform, identity: $identity) { neighborWithTraversal(depth: 1) { source }}}"}'
+  assignees:
+    - frontendgatekeeper  
 
 # Assets
 - name: Assets - Cloudflare Images
