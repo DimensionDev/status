@@ -562,19 +562,19 @@
     "url": "$DEBANK_GAS_PRICE_DICT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-debank-gas-price-dict",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 334,
-    "timeDay": 314,
-    "timeWeek": 318,
-    "timeMonth": 420,
-    "timeYear": 334,
+    "time": 333,
+    "timeDay": 284,
+    "timeWeek": 309,
+    "timeMonth": 414,
+    "timeYear": 333,
     "dailyMinutesDown": {
-      "2023-03-06": 1,
+      "2023-03-06": 7,
       "2023-02-25": 8,
       "2022-12-02": 6
     }
@@ -1004,12 +1004,12 @@
     "uptime": "99.05%",
     "uptimeDay": "98.47%",
     "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.24%",
+    "uptimeMonth": "99.25%",
     "uptimeYear": "99.05%",
     "time": 386,
     "timeDay": 288,
     "timeWeek": 335,
-    "timeMonth": 314,
+    "timeMonth": 315,
     "timeYear": 386,
     "dailyMinutesDown": {
       "2023-03-05": 23,
@@ -1109,7 +1109,7 @@
     "timeMonth": 856,
     "timeYear": 856,
     "dailyMinutesDown": {
-      "2023-03-06": 229,
+      "2023-03-06": 236,
       "2023-03-05": 1017
     }
   },
