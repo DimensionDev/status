@@ -981,19 +981,19 @@
     "url": "$ZORA_NFT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-zora-nft",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.98%",
-    "time": 281,
-    "timeDay": 249,
-    "timeWeek": 201,
-    "timeMonth": 258,
-    "timeYear": 281,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.97%",
+    "time": 280,
+    "timeDay": 211,
+    "timeWeek": 197,
+    "timeMonth": 254,
+    "timeYear": 280,
     "dailyMinutesDown": {
-      "2023-03-07": 1,
+      "2023-03-07": 6,
       "2023-02-10": 36,
       "2022-12-04": 7
     }
@@ -1114,7 +1114,7 @@
     "timeMonth": 765,
     "timeYear": 765,
     "dailyMinutesDown": {
-      "2023-03-07": 1372,
+      "2023-03-07": 1377,
       "2023-03-06": 1440,
       "2023-03-05": 1017
     }
