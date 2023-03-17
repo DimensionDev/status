@@ -279,6 +279,21 @@ sites:
   body: '{"operationName": "GET_PROFILES_QUERY", "variables": {"platform": "ethereum", "identity": "_"}, "query": "query GET_PROFILES_QUERY($platform: String, $identity: String) { identity(platform: $platform, identity: $identity) { neighborWithTraversal(depth: 1) { source }}}"}'
   assignees:
     - frontendgatekeeper  
+- name: API - Simple Hash
+  url: $SIMPLE_HASH_API_URL
+  method: GET 
+  headers:
+    - "x-api-key: $SIMPLE_HASH_API_KEY"  
+  assignees:
+    - frontendgatekeeper
+- name: API - Twitter Handler Verify
+  url: $TWITTER_HANDLER_VERIFY_URL
+  method: GET
+  headers:
+    - "x-api-key: $TWITTER_HANDLER_VERIFY_API_KEY"  
+  assignees:
+    - frontendgatekeeper  
+
 
 # Assets
 - name: Assets - Cloudflare Images
