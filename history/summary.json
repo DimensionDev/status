@@ -456,19 +456,19 @@
     "url": "$ASTAR_GAS_PRICE_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-astar-gas-price",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 351,
-    "timeDay": 264,
-    "timeWeek": 366,
-    "timeMonth": 335,
+    "timeDay": 252,
+    "timeWeek": 352,
+    "timeMonth": 332,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2023-03-23": 1
+      "2023-03-23": 13
     }
   },
   {
@@ -1134,7 +1134,7 @@
     "timeMonth": 969,
     "timeYear": 969,
     "dailyMinutesDown": {
-      "2023-03-23": 135,
+      "2023-03-23": 148,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
@@ -1172,7 +1172,7 @@
     "timeMonth": 261,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2023-03-23": 135,
+      "2023-03-23": 148,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
@@ -1198,7 +1198,7 @@
     "timeMonth": 349,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2023-03-23": 135,
+      "2023-03-23": 148,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
