@@ -1,7 +1,7 @@
 url: $ASTAR_GAS_PRICE_API_URL
-status: up
-code: 200
-responseTime: 264
-lastUpdated: 2023-03-22T23:04:54.733Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-03-23T02:13:42.255Z
 startTime: Mon Oct 31 2022 05:59:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
