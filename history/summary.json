@@ -456,10 +456,10 @@
     "url": "$ASTAR_GAS_PRICE_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-astar-gas-price",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 351,
@@ -467,7 +467,9 @@
     "timeWeek": 366,
     "timeMonth": 335,
     "timeYear": 351,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-23": 1
+    }
   },
   {
     "name": "API - Chainbase NFT",
@@ -623,11 +625,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-gem-nft",
     "status": "up",
-    "uptime": "72.62%",
+    "uptime": "72.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "72.62%",
+    "uptimeYear": "72.63%",
     "time": 1255,
     "timeDay": 692,
     "timeWeek": 724,
@@ -1132,7 +1134,7 @@
     "timeMonth": 969,
     "timeYear": 969,
     "dailyMinutesDown": {
-      "2023-03-23": 110,
+      "2023-03-23": 135,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
@@ -1170,7 +1172,7 @@
     "timeMonth": 261,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2023-03-23": 110,
+      "2023-03-23": 135,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
@@ -1196,7 +1198,7 @@
     "timeMonth": 349,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2023-03-23": 110,
+      "2023-03-23": 135,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
