@@ -1,7 +1,7 @@
 url: $GEM_NFT_API_URL
-status: down
-code: 530
-responseTime: 12233
-lastUpdated: 2023-04-01T07:08:19.899Z
+status: up
+code: 200
+responseTime: 747
+lastUpdated: 2023-04-01T07:22:56.037Z
 startTime: Mon Oct 31 2022 05:59:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
