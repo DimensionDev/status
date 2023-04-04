@@ -1031,19 +1031,19 @@
     "url": "$TWITTER_IDENTITY_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-twitter-identity",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.16%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.15%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "99.60%",
+    "uptimeYear": "99.61%",
     "time": 371,
-    "timeDay": 362,
-    "timeWeek": 309,
-    "timeMonth": 317,
+    "timeDay": 322,
+    "timeWeek": 303,
+    "timeMonth": 315,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2023-04-04": 16,
+      "2023-04-04": 17,
       "2023-04-03": 7,
       "2023-04-02": 7,
       "2023-03-31": 15,
@@ -1092,7 +1092,7 @@
       "2023-01-17": 6,
       "2023-01-16": 6,
       "2022-12-04": 36,
-      "2022-12-03": 116
+      "2022-12-03": 105
     }
   },
   {
@@ -1152,7 +1152,7 @@
     "timeMonth": 922,
     "timeYear": 922,
     "dailyMinutesDown": {
-      "2023-04-04": 886,
+      "2023-04-04": 893,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
@@ -1202,7 +1202,7 @@
     "timeMonth": 256,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2023-04-04": 886,
+      "2023-04-04": 893,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
@@ -1240,7 +1240,7 @@
     "timeMonth": 340,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2023-04-04": 886,
+      "2023-04-04": 893,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
