@@ -597,11 +597,11 @@
     "url": "$DEBANK_GAS_PRICE_DICT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-debank-gas-price-dict",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "95.59%",
-    "uptimeWeek": "96.76%",
-    "uptimeMonth": "98.11%",
+    "uptimeDay": "95.53%",
+    "uptimeWeek": "96.75%",
+    "uptimeMonth": "98.13%",
     "uptimeYear": "99.70%",
     "time": 308,
     "timeDay": 288,
@@ -609,7 +609,7 @@
     "timeMonth": 296,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2023-05-08": 23,
+      "2023-05-08": 24,
       "2023-05-07": 40,
       "2023-05-06": 24,
       "2023-05-05": 43,
@@ -628,7 +628,7 @@
       "2023-04-22": 41,
       "2023-04-21": 55,
       "2023-04-20": 13,
-      "2023-04-19": 28
+      "2023-04-19": 18
     }
   },
   {
@@ -669,18 +669,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-gem-nft",
     "status": "down",
-    "uptime": "63.13%",
+    "uptime": "63.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "63.13%",
+    "uptimeYear": "63.12%",
     "time": 1148,
     "timeDay": 246,
     "timeWeek": 253,
     "timeMonth": 325,
     "timeYear": 1148,
     "dailyMinutesDown": {
-      "2023-05-08": 413,
+      "2023-05-08": 444,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -1235,7 +1235,7 @@
     "timeMonth": 1911,
     "timeYear": 1356,
     "dailyMinutesDown": {
-      "2023-05-08": 414,
+      "2023-05-08": 444,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -1319,7 +1319,7 @@
     "timeMonth": 322,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2023-05-08": 414,
+      "2023-05-08": 444,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -1391,7 +1391,7 @@
     "timeMonth": 309,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2023-05-08": 414,
+      "2023-05-08": 444,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
