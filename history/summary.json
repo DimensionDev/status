@@ -406,10 +406,10 @@
     "url": "$ASTAR_RPC_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rpc-server-astar",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.96%",
     "time": 641,
@@ -418,6 +418,7 @@
     "timeMonth": 1238,
     "timeYear": 641,
     "dailyMinutesDown": {
+      "2023-05-14": 2,
       "2023-05-06": 22,
       "2023-05-04": 7,
       "2023-05-02": 39,
@@ -597,18 +598,19 @@
     "url": "$DEBANK_GAS_PRICE_DICT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-debank-gas-price-dict",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "94.10%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "94.08%",
     "uptimeMonth": "97.59%",
-    "uptimeYear": "99.62%",
+    "uptimeYear": "99.63%",
     "time": 315,
-    "timeDay": 262,
+    "timeDay": 282,
     "timeWeek": 346,
-    "timeMonth": 311,
+    "timeMonth": 312,
     "timeYear": 315,
     "dailyMinutesDown": {
+      "2023-05-14": 3,
       "2023-05-13": 73,
       "2023-05-12": 53,
       "2023-05-11": 252,
@@ -625,7 +627,7 @@
       "2023-04-30": 71,
       "2023-04-29": 28,
       "2023-04-28": 50,
-      "2023-04-27": 12
+      "2023-04-27": 6
     }
   },
   {
@@ -677,7 +679,7 @@
     "timeMonth": 305,
     "timeYear": 1129,
     "dailyMinutesDown": {
-      "2023-05-14": 922,
+      "2023-05-14": 935,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
@@ -1243,7 +1245,7 @@
     "timeMonth": 1878,
     "timeYear": 1299,
     "dailyMinutesDown": {
-      "2023-05-14": 922,
+      "2023-05-14": 935,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
@@ -1333,7 +1335,7 @@
     "timeMonth": 337,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2023-05-14": 922,
+      "2023-05-14": 935,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
@@ -1411,7 +1413,7 @@
     "timeMonth": 320,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2023-05-14": 922,
+      "2023-05-14": 935,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
