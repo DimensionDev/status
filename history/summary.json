@@ -603,19 +603,19 @@
     "url": "$DEBANK_GAS_PRICE_DICT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-debank-gas-price-dict",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "95.38%",
-    "uptimeWeek": "96.83%",
-    "uptimeMonth": "97.61%",
+    "uptimeDay": "95.30%",
+    "uptimeWeek": "96.82%",
+    "uptimeMonth": "97.62%",
     "uptimeYear": "99.64%",
     "time": 312,
-    "timeDay": 253,
-    "timeWeek": 292,
+    "timeDay": 254,
+    "timeWeek": 291,
     "timeMonth": 308,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2023-05-21": 59,
+      "2023-05-21": 60,
       "2023-05-20": 42,
       "2023-05-19": 42,
       "2023-05-18": 40,
@@ -632,8 +632,7 @@
       "2023-05-07": 40,
       "2023-05-06": 24,
       "2023-05-05": 43,
-      "2023-05-04": 35,
-      "2023-05-03": 6
+      "2023-05-04": 35
     }
   },
   {
@@ -685,7 +684,7 @@
     "timeMonth": 320,
     "timeYear": 1109,
     "dailyMinutesDown": {
-      "2023-05-21": 1024,
+      "2023-05-21": 1046,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
@@ -925,7 +924,7 @@
     "uptime": "99.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.94%",
-    "uptimeMonth": "96.90%",
+    "uptimeMonth": "96.95%",
     "uptimeYear": "99.20%",
     "time": 592,
     "timeDay": 515,
@@ -1262,7 +1261,7 @@
     "timeMonth": 833,
     "timeYear": 1258,
     "dailyMinutesDown": {
-      "2023-05-21": 1024,
+      "2023-05-21": 1047,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
@@ -1359,7 +1358,7 @@
     "timeMonth": 325,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2023-05-21": 1024,
+      "2023-05-21": 1047,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
@@ -1444,7 +1443,7 @@
     "timeMonth": 318,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2023-05-21": 1024,
+      "2023-05-21": 1047,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
