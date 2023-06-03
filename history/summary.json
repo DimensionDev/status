@@ -121,9 +121,9 @@
     "url": "$QUIKNODE_MAINNET_RPC_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rpc-server-quiknode-mainnet",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -133,6 +133,7 @@
     "timeMonth": 111,
     "timeYear": 155,
     "dailyMinutesDown": {
+      "2023-06-03": 0,
       "2023-04-26": 6,
       "2023-02-27": 9,
       "2023-02-15": 15,
@@ -696,7 +697,7 @@
     "timeMonth": 279,
     "timeYear": 1075,
     "dailyMinutesDown": {
-      "2023-06-03": 874,
+      "2023-06-03": 894,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
@@ -1292,7 +1293,7 @@
     "timeMonth": 1760,
     "timeYear": 1525,
     "dailyMinutesDown": {
-      "2023-06-03": 875,
+      "2023-06-03": 894,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
@@ -1402,7 +1403,7 @@
     "timeMonth": 341,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2023-06-03": 875,
+      "2023-06-03": 894,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
@@ -1500,7 +1501,7 @@
     "timeMonth": 289,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2023-06-03": 875,
+      "2023-06-03": 894,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
