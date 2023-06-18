@@ -509,11 +509,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-chainbase-nft",
     "status": "up",
-    "uptime": "95.67%",
+    "uptime": "95.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.67%",
+    "uptimeYear": "95.68%",
     "time": 372,
     "timeDay": 209,
     "timeWeek": 263,
@@ -610,11 +610,11 @@
     "url": "$DEBANK_GAS_PRICE_DICT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-debank-gas-price-dict",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "95.44%",
-    "uptimeWeek": "96.76%",
-    "uptimeMonth": "98.11%",
+    "uptimeDay": "95.37%",
+    "uptimeWeek": "96.75%",
+    "uptimeMonth": "98.12%",
     "uptimeYear": "99.75%",
     "time": 305,
     "timeDay": 276,
@@ -622,7 +622,7 @@
     "timeMonth": 290,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2023-06-18": 34,
+      "2023-06-18": 35,
       "2023-06-17": 30,
       "2023-06-16": 53,
       "2023-06-15": 26,
@@ -641,7 +641,7 @@
       "2023-06-02": 51,
       "2023-06-01": 24,
       "2023-05-31": 28,
-      "2023-05-30": 15
+      "2023-05-30": 8
     }
   },
   {
@@ -694,7 +694,7 @@
     "timeMonth": 280,
     "timeYear": 1037,
     "dailyMinutesDown": {
-      "2023-06-18": 347,
+      "2023-06-18": 369,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
@@ -1316,7 +1316,7 @@
     "timeMonth": 1696,
     "timeYear": 1399,
     "dailyMinutesDown": {
-      "2023-06-18": 348,
+      "2023-06-18": 370,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
@@ -1441,7 +1441,7 @@
     "timeMonth": 320,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2023-06-18": 348,
+      "2023-06-18": 370,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
@@ -1554,7 +1554,7 @@
     "timeMonth": 260,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2023-06-18": 348,
+      "2023-06-18": 370,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
