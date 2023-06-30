@@ -1,7 +1,7 @@
 url: $RARIBLE_NFT_API_URL
-status: down
-code: 429
-responseTime: 233
-lastUpdated: 2023-06-30T19:08:39.357Z
+status: up
+code: 200
+responseTime: 140
+lastUpdated: 2023-06-30T19:16:51.195Z
 startTime: Mon Oct 31 2022 05:59:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
