@@ -695,7 +695,7 @@
     "timeMonth": 315,
     "timeYear": 1008,
     "dailyMinutesDown": {
-      "2023-07-02": 1069,
+      "2023-07-02": 1075,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
@@ -1107,22 +1107,22 @@
     "url": "$RARIBLE_NFT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-rarible-nft",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "66.05%",
-    "uptimeWeek": "86.84%",
-    "uptimeMonth": "96.97%",
-    "uptimeYear": "99.62%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "65.98%",
+    "uptimeWeek": "86.92%",
+    "uptimeMonth": "96.99%",
+    "uptimeYear": "99.63%",
     "time": 453,
     "timeDay": 319,
     "timeWeek": 322,
     "timeMonth": 332,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2023-07-02": 379,
+      "2023-07-02": 380,
       "2023-07-01": 590,
       "2023-06-30": 303,
-      "2023-06-29": 52
+      "2023-06-29": 44
     }
   },
   {
@@ -1184,8 +1184,8 @@
     "status": "down",
     "uptime": "98.92%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "71.79%",
-    "uptimeMonth": "93.14%",
+    "uptimeWeek": "71.73%",
+    "uptimeMonth": "93.13%",
     "uptimeYear": "98.92%",
     "time": 351,
     "timeDay": 491,
@@ -1193,7 +1193,7 @@
     "timeMonth": 307,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2023-07-02": 1069,
+      "2023-07-02": 1075,
       "2023-07-01": 1440,
       "2023-06-30": 328,
       "2023-06-29": 7,
@@ -1320,7 +1320,7 @@
     "timeMonth": 733,
     "timeYear": 1324,
     "dailyMinutesDown": {
-      "2023-07-02": 1069,
+      "2023-07-02": 1075,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
@@ -1459,7 +1459,7 @@
     "timeMonth": 277,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2023-07-02": 1069,
+      "2023-07-02": 1075,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
@@ -1586,7 +1586,7 @@
     "timeMonth": 241,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2023-07-02": 1069,
+      "2023-07-02": 1075,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
