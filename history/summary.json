@@ -695,7 +695,7 @@
     "timeMonth": 315,
     "timeYear": 1008,
     "dailyMinutesDown": {
-      "2023-07-02": 1178,
+      "2023-07-02": 1185,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
@@ -1107,22 +1107,21 @@
     "url": "$RARIBLE_NFT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-rarible-nft",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "64.62%",
-    "uptimeWeek": "86.73%",
-    "uptimeMonth": "96.95%",
-    "uptimeYear": "99.62%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "64.94%",
+    "uptimeWeek": "86.91%",
+    "uptimeMonth": "96.99%",
+    "uptimeYear": "99.63%",
     "time": 451,
-    "timeDay": 318,
+    "timeDay": 321,
     "timeWeek": 321,
     "timeMonth": 331,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2023-07-02": 424,
+      "2023-07-02": 425,
       "2023-07-01": 590,
-      "2023-06-30": 303,
-      "2023-06-29": 19
+      "2023-06-30": 303
     }
   },
   {
@@ -1184,8 +1183,8 @@
     "status": "down",
     "uptime": "98.89%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "70.70%",
-    "uptimeMonth": "92.89%",
+    "uptimeWeek": "70.64%",
+    "uptimeMonth": "92.88%",
     "uptimeYear": "98.89%",
     "time": 351,
     "timeDay": 491,
@@ -1193,7 +1192,7 @@
     "timeMonth": 307,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2023-07-02": 1179,
+      "2023-07-02": 1185,
       "2023-07-01": 1440,
       "2023-06-30": 328,
       "2023-06-29": 7,
@@ -1320,7 +1319,7 @@
     "timeMonth": 733,
     "timeYear": 1324,
     "dailyMinutesDown": {
-      "2023-07-02": 1179,
+      "2023-07-02": 1185,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
@@ -1459,7 +1458,7 @@
     "timeMonth": 277,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2023-07-02": 1179,
+      "2023-07-02": 1185,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
@@ -1586,7 +1585,7 @@
     "timeMonth": 241,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2023-07-02": 1179,
+      "2023-07-02": 1185,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
