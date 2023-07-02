@@ -17,8 +17,7 @@
     "timeYear": 164,
     "dailyMinutesDown": {
       "2022-11-13": 11,
-      "2022-09-14": 5,
-      "2022-07-02": 6
+      "2022-09-14": 5
     }
   },
   {
@@ -38,8 +37,7 @@
     "timeMonth": 971,
     "timeYear": 888,
     "dailyMinutesDown": {
-      "2022-11-13": 11,
-      "2022-07-02": 6
+      "2022-11-13": 11
     }
   },
   {
@@ -684,18 +682,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-gem-nft",
     "status": "down",
-    "uptime": "48.96%",
+    "uptime": "48.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "48.96%",
+    "uptimeYear": "48.95%",
     "time": 1008,
     "timeDay": 157,
     "timeWeek": 367,
     "timeMonth": 315,
     "timeYear": 1008,
     "dailyMinutesDown": {
-      "2023-07-01": 1437,
+      "2023-07-02": 9,
+      "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
@@ -1108,12 +1107,12 @@
     "slug": "api-rarible-nft",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "58.91%",
+    "uptimeDay": "59.15%",
     "uptimeWeek": "88.62%",
     "uptimeMonth": "97.30%",
     "uptimeYear": "99.61%",
     "time": 469,
-    "timeDay": 326,
+    "timeDay": 327,
     "timeWeek": 326,
     "timeMonth": 339,
     "timeYear": 469,
@@ -1199,8 +1198,8 @@
     "status": "down",
     "uptime": "99.23%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.43%",
-    "uptimeMonth": "95.54%",
+    "uptimeWeek": "82.30%",
+    "uptimeMonth": "95.51%",
     "uptimeYear": "99.23%",
     "time": 351,
     "timeDay": 491,
@@ -1208,7 +1207,8 @@
     "timeMonth": 304,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2023-07-01": 1437,
+      "2023-07-02": 10,
+      "2023-07-01": 1440,
       "2023-06-30": 328,
       "2023-06-29": 7,
       "2023-06-14": 6,
@@ -1334,7 +1334,8 @@
     "timeMonth": 733,
     "timeYear": 1324,
     "dailyMinutesDown": {
-      "2023-07-01": 1437,
+      "2023-07-02": 10,
+      "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
@@ -1472,7 +1473,8 @@
     "timeMonth": 277,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2023-07-01": 1437,
+      "2023-07-02": 10,
+      "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
@@ -1598,7 +1600,8 @@
     "timeMonth": 241,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2023-07-01": 1437,
+      "2023-07-02": 10,
+      "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
