@@ -608,19 +608,19 @@
     "url": "$DEBANK_GAS_PRICE_DICT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-debank-gas-price-dict",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "98.06%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "98.07%",
     "uptimeYear": "99.76%",
     "time": 303,
-    "timeDay": 274,
+    "timeDay": 283,
     "timeWeek": 301,
     "timeMonth": 293,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2023-07-02": 12,
+      "2023-07-02": 13,
       "2023-07-01": 34,
       "2023-06-30": 42,
       "2023-06-29": 34,
@@ -641,7 +641,7 @@
       "2023-06-13": 75,
       "2023-06-12": 67,
       "2023-06-11": 7,
-      "2023-06-10": 36
+      "2023-06-10": 28
     }
   },
   {
@@ -695,7 +695,7 @@
     "timeMonth": 315,
     "timeYear": 1008,
     "dailyMinutesDown": {
-      "2023-07-02": 1166,
+      "2023-07-02": 1172,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
@@ -1107,22 +1107,22 @@
     "url": "$RARIBLE_NFT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-rarible-nft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "65.03%",
-    "uptimeWeek": "86.66%",
-    "uptimeMonth": "96.93%",
+    "uptimeDay": "64.93%",
+    "uptimeWeek": "86.77%",
+    "uptimeMonth": "96.96%",
     "uptimeYear": "99.62%",
     "time": 451,
-    "timeDay": 321,
+    "timeDay": 322,
     "timeWeek": 322,
-    "timeMonth": 331,
+    "timeMonth": 332,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2023-07-02": 418,
+      "2023-07-02": 419,
       "2023-07-01": 590,
       "2023-06-30": 303,
-      "2023-06-29": 32
+      "2023-06-29": 19
     }
   },
   {
@@ -1184,8 +1184,8 @@
     "status": "down",
     "uptime": "98.89%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "70.83%",
-    "uptimeMonth": "92.92%",
+    "uptimeWeek": "70.77%",
+    "uptimeMonth": "92.91%",
     "uptimeYear": "98.89%",
     "time": 351,
     "timeDay": 491,
@@ -1193,7 +1193,7 @@
     "timeMonth": 307,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2023-07-02": 1166,
+      "2023-07-02": 1173,
       "2023-07-01": 1440,
       "2023-06-30": 328,
       "2023-06-29": 7,
@@ -1320,7 +1320,7 @@
     "timeMonth": 733,
     "timeYear": 1324,
     "dailyMinutesDown": {
-      "2023-07-02": 1166,
+      "2023-07-02": 1173,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
@@ -1459,7 +1459,7 @@
     "timeMonth": 277,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2023-07-02": 1166,
+      "2023-07-02": 1173,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
@@ -1586,7 +1586,7 @@
     "timeMonth": 241,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2023-07-02": 1166,
+      "2023-07-02": 1173,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
