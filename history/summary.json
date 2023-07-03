@@ -609,19 +609,19 @@
     "url": "$DEBANK_GAS_PRICE_DICT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-debank-gas-price-dict",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "98.06%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "98.08%",
     "uptimeYear": "99.76%",
     "time": 303,
-    "timeDay": 297,
-    "timeWeek": 301,
+    "timeDay": 288,
+    "timeWeek": 300,
     "timeMonth": 291,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2023-07-03": 3,
+      "2023-07-03": 4,
       "2023-07-02": 27,
       "2023-07-01": 34,
       "2023-06-30": 42,
@@ -643,7 +643,7 @@
       "2023-06-13": 75,
       "2023-06-12": 67,
       "2023-06-11": 7,
-      "2023-06-10": 15
+      "2023-06-10": 6
     }
   },
   {
@@ -697,7 +697,7 @@
     "timeMonth": 316,
     "timeYear": 1002,
     "dailyMinutesDown": {
-      "2023-07-03": 1387,
+      "2023-07-03": 1417,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
@@ -1165,8 +1165,8 @@
     "status": "down",
     "uptime": "98.41%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "54.35%",
-    "uptimeMonth": "89.14%",
+    "uptimeWeek": "54.05%",
+    "uptimeMonth": "89.07%",
     "uptimeYear": "98.41%",
     "time": 350,
     "timeDay": 286,
@@ -1174,7 +1174,7 @@
     "timeMonth": 299,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2023-07-03": 1387,
+      "2023-07-03": 1417,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 328,
@@ -1302,7 +1302,7 @@
     "timeMonth": 731,
     "timeYear": 1312,
     "dailyMinutesDown": {
-      "2023-07-03": 1387,
+      "2023-07-03": 1417,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
@@ -1442,7 +1442,7 @@
     "timeMonth": 273,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2023-07-03": 1387,
+      "2023-07-03": 1417,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
@@ -1570,7 +1570,7 @@
     "timeMonth": 237,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2023-07-03": 1387,
+      "2023-07-03": 1417,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
