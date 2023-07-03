@@ -696,7 +696,7 @@
     "timeMonth": 314,
     "timeYear": 1006,
     "dailyMinutesDown": {
-      "2023-07-03": 527,
+      "2023-07-03": 539,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
@@ -1110,22 +1110,22 @@
     "url": "$RARIBLE_NFT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-rarible-nft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "66.71%",
-    "uptimeWeek": "86.73%",
-    "uptimeMonth": "96.95%",
+    "uptimeDay": "66.67%",
+    "uptimeWeek": "86.86%",
+    "uptimeMonth": "96.98%",
     "uptimeYear": "99.62%",
     "time": 443,
-    "timeDay": 325,
+    "timeDay": 327,
     "timeWeek": 324,
     "timeMonth": 332,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2023-07-03": 176,
+      "2023-07-03": 177,
       "2023-07-02": 490,
       "2023-07-01": 590,
-      "2023-06-30": 78
+      "2023-06-30": 63
     }
   },
   {
@@ -1187,8 +1187,8 @@
     "status": "down",
     "uptime": "98.66%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "62.88%",
-    "uptimeMonth": "91.09%",
+    "uptimeWeek": "62.76%",
+    "uptimeMonth": "91.06%",
     "uptimeYear": "98.66%",
     "time": 351,
     "timeDay": 239,
@@ -1196,7 +1196,7 @@
     "timeMonth": 303,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2023-07-03": 527,
+      "2023-07-03": 540,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 328,
@@ -1324,7 +1324,7 @@
     "timeMonth": 733,
     "timeYear": 1320,
     "dailyMinutesDown": {
-      "2023-07-03": 527,
+      "2023-07-03": 540,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
@@ -1464,7 +1464,7 @@
     "timeMonth": 262,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2023-07-03": 527,
+      "2023-07-03": 540,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
@@ -1592,7 +1592,7 @@
     "timeMonth": 237,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2023-07-03": 527,
+      "2023-07-03": 540,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
