@@ -236,11 +236,6 @@ sites:
   method: GET
   assignees:
     - frontendgatekeeper
-- name: API - Rarible NFT
-  url: $RARIBLE_NFT_API_URL
-  method: GET
-  assignees:
-    - frontendgatekeeper
 - name: API - X2Y2 NFT
   url: $X2Y2_NFT_API_URL
   method: GET
