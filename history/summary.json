@@ -35,7 +35,7 @@
     "timeDay": 749,
     "timeWeek": 1054,
     "timeMonth": 983,
-    "timeYear": 891,
+    "timeYear": 892,
     "dailyMinutesDown": {
       "2022-11-13": 11
     }
@@ -98,7 +98,7 @@
     "timeDay": 339,
     "timeWeek": 203,
     "timeMonth": 171,
-    "timeYear": 207,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   },
   {
@@ -208,7 +208,7 @@
     "timeDay": 551,
     "timeWeek": 255,
     "timeMonth": 315,
-    "timeYear": 285,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2023-07-10": 19,
       "2023-07-05": 7,
@@ -345,7 +345,7 @@
     "timeDay": 954,
     "timeWeek": 1269,
     "timeMonth": 1329,
-    "timeYear": 1190,
+    "timeYear": 1188,
     "dailyMinutesDown": {
       "2023-01-25": 12,
       "2022-08-01": 11
@@ -413,7 +413,7 @@
     "timeDay": 598,
     "timeWeek": 729,
     "timeMonth": 778,
-    "timeYear": 675,
+    "timeYear": 676,
     "dailyMinutesDown": {
       "2023-05-22": 14,
       "2023-05-20": 20,
@@ -604,12 +604,12 @@
     "slug": "api-debank-gas-price-dict",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "94.07%",
+    "uptimeDay": "94.48%",
     "uptimeWeek": "95.64%",
     "uptimeMonth": "97.92%",
     "uptimeYear": "99.75%",
     "time": 304,
-    "timeDay": 303,
+    "timeDay": 301,
     "timeWeek": 308,
     "timeMonth": 295,
     "timeYear": 304,
@@ -690,7 +690,7 @@
     "timeMonth": 324,
     "timeYear": 984,
     "dailyMinutesDown": {
-      "2023-07-14": 859,
+      "2023-07-14": 883,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
@@ -987,18 +987,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-nft-scan-solana-nft",
     "status": "down",
-    "uptime": "98.76%",
-    "uptimeDay": "25.18%",
-    "uptimeWeek": "89.31%",
-    "uptimeMonth": "96.73%",
-    "uptimeYear": "98.76%",
+    "uptime": "98.75%",
+    "uptimeDay": "23.54%",
+    "uptimeWeek": "89.08%",
+    "uptimeMonth": "96.68%",
+    "uptimeYear": "98.75%",
     "time": 576,
     "timeDay": 346,
     "timeWeek": 486,
     "timeMonth": 498,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2023-07-14": 860,
+      "2023-07-14": 883,
       "2023-07-13": 218,
       "2023-07-03": 354,
       "2023-06-09": 436,
@@ -1171,19 +1171,19 @@
     "url": "$TWITTER_IDENTITY_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-twitter-identity",
-    "status": "up",
+    "status": "down",
     "uptime": "94.39%",
-    "uptimeDay": "38.58%",
-    "uptimeWeek": "5.51%",
-    "uptimeMonth": "55.81%",
+    "uptimeDay": "40.11%",
+    "uptimeWeek": "5.73%",
+    "uptimeMonth": "55.80%",
     "uptimeYear": "94.39%",
     "time": 348,
-    "timeDay": 305,
-    "timeWeek": 303,
-    "timeMonth": 305,
+    "timeDay": 308,
+    "timeWeek": 306,
+    "timeMonth": 306,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2023-07-14": 303,
+      "2023-07-14": 305,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
@@ -1252,7 +1252,7 @@
       "2023-03-22": 17,
       "2023-03-21": 9,
       "2023-03-16": 8,
-      "2023-03-15": 13
+      "2023-03-15": 7
     }
   },
   {
@@ -1314,7 +1314,7 @@
     "timeMonth": 894,
     "timeYear": 1306,
     "dailyMinutesDown": {
-      "2023-07-14": 860,
+      "2023-07-14": 884,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
@@ -1465,7 +1465,7 @@
     "timeMonth": 270,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2023-07-14": 860,
+      "2023-07-14": 884,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
@@ -1604,7 +1604,7 @@
     "timeMonth": 247,
     "timeYear": 289,
     "dailyMinutesDown": {
-      "2023-07-14": 860,
+      "2023-07-14": 884,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
