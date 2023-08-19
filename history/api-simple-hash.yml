@@ -1,7 +1,7 @@
 url: $SIMPLE_HASH_API_URL
 status: down
 code: 404
-responseTime: 446
-lastUpdated: 2023-08-18T23:05:09.948Z
-startTime: Fri Mar 17 2023 05:36:31 GMT+0000 (Coordinated Universal Time)
+responseTime: 228
+lastUpdated: 2023-08-19T23:05:06.772Z
+startTime: 2023-03-17T05:36:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
