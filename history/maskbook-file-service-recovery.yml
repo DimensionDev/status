@@ -1,7 +1,7 @@
 url: https://mask-fileservice-landingpage.pages.dev/recover
-status: up
-code: 200
-responseTime: 97
-lastUpdated: 2023-10-29T23:05:18.977Z
+status: down
+code: 500
+responseTime: 60
+lastUpdated: 2023-10-30T20:01:52.000Z
 startTime: 2023-03-14T03:27:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
