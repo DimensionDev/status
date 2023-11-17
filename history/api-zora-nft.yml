@@ -1,7 +1,7 @@
 url: $ZORA_NFT_API_URL
 status: down
-code: 500
-responseTime: 6362
-lastUpdated: 2023-11-17T17:55:48.415Z
+code: 404
+responseTime: 729
+lastUpdated: 2023-11-17T23:05:14.205Z
 startTime: 2022-10-31T05:59:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
