@@ -1,7 +1,7 @@
 url: $DEBANK_GAS_PRICE_DICT_API_URL
 status: down
 code: 404
-responseTime: 203
-lastUpdated: 2023-12-11T23:05:17.684Z
+responseTime: 184
+lastUpdated: 2023-12-12T23:05:16.814Z
 startTime: 2022-10-31T05:59:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
