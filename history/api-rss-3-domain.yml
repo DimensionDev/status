@@ -1,7 +1,7 @@
 url: $RSS3_DOMAIN_API_URL
-status: up
-code: 200
-responseTime: 2186
-lastUpdated: 2023-12-16T23:05:28.863Z
+status: down
+code: 502
+responseTime: 629
+lastUpdated: 2023-12-16T23:30:53.003Z
 startTime: 2023-03-01T13:01:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
