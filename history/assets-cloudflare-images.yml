@@ -1,7 +1,7 @@
 url: $CLOUDFLARE_IMAGES_ASSETS_IMAGE_URL
 status: up
 code: 200
-responseTime: 90
-lastUpdated: 2023-12-15T23:05:23.062Z
+responseTime: 50
+lastUpdated: 2023-12-16T23:05:31.952Z
 startTime: 2022-10-31T05:59:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
