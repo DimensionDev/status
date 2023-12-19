@@ -1,7 +1,7 @@
 url: $AURORA_RPC_URL
-status: degraded
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-19T22:31:32.765Z
+status: up
+code: 200
+responseTime: 50
+lastUpdated: 2023-12-19T22:36:26.686Z
 startTime: 2022-07-14T12:11:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
