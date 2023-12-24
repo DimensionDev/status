@@ -1,7 +1,7 @@
 url: $CONFLUX_RPC_URL
-status: degraded
+status: up
 code: 200
-responseTime: 15124
-lastUpdated: 2023-12-24T22:58:41.721Z
+responseTime: 1174
+lastUpdated: 2023-12-24T23:05:01.909Z
 startTime: 2022-07-14T12:11:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
