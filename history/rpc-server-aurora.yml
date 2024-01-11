@@ -1,7 +1,7 @@
 url: $AURORA_RPC_URL
 status: degraded
 code: 401
-responseTime: 37
-lastUpdated: 2024-01-10T23:05:10.861Z
+responseTime: 55
+lastUpdated: 2024-01-11T23:05:02.440Z
 startTime: 2022-07-14T12:11:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
