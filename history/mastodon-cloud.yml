@@ -1,7 +1,7 @@
 url: https://mastodon.cloud/health
-status: degraded
-code: 502
-responseTime: 205
-lastUpdated: 2024-02-02T08:43:21.637Z
+status: up
+code: 200
+responseTime: 216
+lastUpdated: 2024-02-02T08:49:41.787Z
 startTime: 2022-12-07T06:45:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
