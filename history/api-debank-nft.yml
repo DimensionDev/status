@@ -1,7 +1,7 @@
 url: $DEBANK_NFT_API_URL
-status: down
-code: 500
-responseTime: 898
-lastUpdated: 2024-02-10T08:15:14.939Z
+status: up
+code: 200
+responseTime: 966
+lastUpdated: 2024-02-10T08:23:21.504Z
 startTime: 2022-10-31T05:59:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
