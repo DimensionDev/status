@@ -1,7 +1,7 @@
 url: $RELATION_SERVICE_API_URL
 status: degraded
 code: 200
-responseTime: 801
-lastUpdated: 2024-03-01T23:05:43.357Z
+responseTime: 630
+lastUpdated: 2024-03-02T23:06:22.360Z
 startTime: 2023-03-05T07:10:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
