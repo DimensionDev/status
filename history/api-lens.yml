@@ -1,7 +1,7 @@
 url: $LENS_API_URL
-status: degraded
-code: 503
-responseTime: 346
-lastUpdated: 2024-03-07T06:01:03.174Z
+status: up
+code: 200
+responseTime: 373
+lastUpdated: 2024-03-07T06:10:13.872Z
 startTime: 2022-11-29T07:28:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
