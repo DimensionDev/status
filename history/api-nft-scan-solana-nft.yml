@@ -1,7 +1,7 @@
 url: $NFTSCAN_SOLANA_NFT_API_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-01T07:10:29.743Z
+status: up
+code: 200
+responseTime: 1893
+lastUpdated: 2024-04-01T07:18:25.784Z
 startTime: 2022-10-31T05:59:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
