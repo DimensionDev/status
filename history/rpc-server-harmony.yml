@@ -1,7 +1,7 @@
 url: $HARMONY_RPC_URL
-status: up
-code: 200
-responseTime: 410
-lastUpdated: 2024-04-25T23:05:02.860Z
+status: degraded
+code: 0
+responseTime: 0
+lastUpdated: 2024-04-26T12:25:36.338Z
 startTime: 2022-07-14T12:11:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
