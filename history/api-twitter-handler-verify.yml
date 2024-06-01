@@ -1,7 +1,7 @@
 url: $TWITTER_HANDLER_VERIFY_URL
 status: down
 code: 400
-responseTime: 456
-lastUpdated: 2024-05-31T23:05:42.707Z
+responseTime: 328
+lastUpdated: 2024-06-01T23:05:56.148Z
 startTime: 2023-03-17T05:36:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
