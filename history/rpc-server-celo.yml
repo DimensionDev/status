@@ -1,7 +1,7 @@
 url: $CELO_RPC_URL
-status: up
-code: 200
-responseTime: 111
-lastUpdated: 2024-10-09T14:52:29.109Z
+status: degraded
+code: 0
+responseTime: 0
+lastUpdated: 2024-10-09T14:58:52.073Z
 startTime: 2022-07-14T12:11:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
