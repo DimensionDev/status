@@ -1,7 +1,7 @@
 url: $NFTSCAN_EVM_NFT_API_URL
-status: down
-code: 502
-responseTime: 21857
-lastUpdated: 2024-10-19T15:10:17.935Z
+status: up
+code: 200
+responseTime: 3534
+lastUpdated: 2024-10-19T15:19:59.570Z
 startTime: 2022-10-31T05:59:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
