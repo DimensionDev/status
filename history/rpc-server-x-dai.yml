@@ -1,7 +1,7 @@
 url: $XDAI_RPC_URL
-status: up
+status: degraded
 code: 200
-responseTime: 467
-lastUpdated: 2024-11-09T19:58:47.415Z
+responseTime: 620
+lastUpdated: 2024-11-09T20:07:25.058Z
 startTime: 2022-07-14T12:11:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
