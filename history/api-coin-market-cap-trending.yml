@@ -1,7 +1,7 @@
 url: $COINMARKETCAP_TRENDING_API_URL
 status: down
 code: 403
-responseTime: 489
-lastUpdated: 2024-11-14T23:05:46.908Z
+responseTime: 379
+lastUpdated: 2024-11-15T23:05:32.786Z
 startTime: 2022-10-31T05:59:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
