@@ -227,7 +227,7 @@
     "timeMonth": 472,
     "timeYear": 496,
     "dailyMinutesDown": {
-      "2024-12-21": 597,
+      "2024-12-21": 613,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
@@ -678,7 +678,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rpc-server-aurora",
     "status": "degraded",
-    "uptime": "61.07%",
+    "uptime": "61.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -689,7 +689,7 @@
     "timeMonth": 0,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2024-12-21": 597,
+      "2024-12-21": 614,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
@@ -1244,19 +1244,19 @@
     "url": "$COINMARKETCAP_TRENDING_WIDGET_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-coin-market-cap-trending-widget",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "86.92%",
-    "uptimeWeek": "97.94%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "85.84%",
+    "uptimeWeek": "97.78%",
+    "uptimeMonth": "99.49%",
     "uptimeYear": "99.96%",
     "time": 244,
-    "timeDay": 199,
-    "timeWeek": 193,
-    "timeMonth": 199,
+    "timeDay": 204,
+    "timeWeek": 197,
+    "timeMonth": 201,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2024-12-21": 188,
+      "2024-12-21": 204,
       "2024-12-19": 20,
       "2024-03-23": 7
     }
@@ -1278,7 +1278,7 @@
     "timeMonth": 408,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2024-12-21": 597,
+      "2024-12-21": 614,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
@@ -1517,7 +1517,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-debank-gas-price-dict",
     "status": "down",
-    "uptime": "33.41%",
+    "uptime": "33.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1528,7 +1528,7 @@
     "timeMonth": 253,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2024-12-21": 597,
+      "2024-12-21": 614,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
@@ -1949,7 +1949,7 @@
     "timeMonth": 300,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2024-12-21": 597,
+      "2024-12-21": 614,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
@@ -2361,7 +2361,7 @@
     "timeMonth": 307,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2024-12-21": 597,
+      "2024-12-21": 614,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
@@ -3096,7 +3096,7 @@
     "timeMonth": 1229,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2024-12-21": 598,
+      "2024-12-21": 615,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
@@ -3477,7 +3477,7 @@
     "timeMonth": 296,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2024-12-21": 598,
+      "2024-12-21": 615,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
@@ -3769,7 +3769,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-21": 598,
+      "2024-12-21": 615,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
@@ -4153,7 +4153,7 @@
     "timeMonth": 637,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2024-12-21": 598,
+      "2024-12-21": 615,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
@@ -4537,7 +4537,7 @@
     "timeMonth": 289,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2024-12-21": 598,
+      "2024-12-21": 615,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
@@ -4921,7 +4921,7 @@
     "timeMonth": 375,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2024-12-21": 598,
+      "2024-12-21": 615,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
