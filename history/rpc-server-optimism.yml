@@ -1,7 +1,7 @@
 url: $OPTIMISM_RPC_URL
-status: degraded
-code: 429
-responseTime: 60
-lastUpdated: 2025-02-19T16:10:27.162Z
+status: up
+code: 200
+responseTime: 395
+lastUpdated: 2025-02-19T16:22:28.792Z
 startTime: 2023-02-13T11:27:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
