@@ -1,7 +1,7 @@
 url: $FANTOM_RPC_URL
-status: degraded
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-09T12:14:43.872Z
+status: down
+code: 401
+responseTime: 52
+lastUpdated: 2025-05-09T12:29:13.550Z
 startTime: 2022-07-14T12:11:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
