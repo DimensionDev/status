@@ -1,7 +1,7 @@
 url: $RABBY_NFT_API_URL
-status: up
-code: 200
-responseTime: 386
-lastUpdated: 2025-08-30T23:31:50.726Z
+status: down
+code: 403
+responseTime: 31
+lastUpdated: 2025-08-31T05:58:08.251Z
 startTime: 2022-10-17T08:28:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
