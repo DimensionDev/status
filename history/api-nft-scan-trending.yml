@@ -1,7 +1,7 @@
 url: $NFTSCAN_TRENDING_API_URL
-status: up
-code: 200
-responseTime: 291
-lastUpdated: 2025-08-30T23:06:50.099Z
+status: down
+code: 502
+responseTime: 1539
+lastUpdated: 2025-08-31T14:11:29.708Z
 startTime: 2022-10-31T05:59:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
