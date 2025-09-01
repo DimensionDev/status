@@ -1,7 +1,7 @@
 url: $RABBY_TOKEN_API_URL
-status: up
-code: 200
-responseTime: 302
-lastUpdated: 2025-09-01T23:06:48.549Z
+status: down
+code: 403
+responseTime: 177
+lastUpdated: 2025-09-01T23:57:52.727Z
 startTime: 2022-10-17T08:20:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
