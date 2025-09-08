@@ -1,7 +1,7 @@
 url: $ASTAR_RPC_URL
-status: up
-code: 200
-responseTime: 7859
-lastUpdated: 2025-09-08T23:06:59.777Z
+status: degraded
+code: 504
+responseTime: 508
+lastUpdated: 2025-09-08T23:27:57.913Z
 startTime: 2022-07-14T12:11:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
