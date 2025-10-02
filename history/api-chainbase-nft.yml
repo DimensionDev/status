@@ -1,7 +1,7 @@
 url: $CHAINBASE_NFT_API_URL
-status: up
-code: 200
-responseTime: 571
-lastUpdated: 2025-10-01T23:06:39.749Z
+status: down
+code: 503
+responseTime: 1191
+lastUpdated: 2025-10-02T08:45:47.621Z
 startTime: 2022-10-31T05:59:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
