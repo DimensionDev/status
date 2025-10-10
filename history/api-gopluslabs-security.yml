@@ -1,7 +1,7 @@
 url: $GOPLUSLABS_SECURITY_API_URL
-status: down
-code: 429
-responseTime: 277
-lastUpdated: 2025-10-10T07:07:02.510Z
+status: up
+code: 200
+responseTime: 593
+lastUpdated: 2025-10-10T07:27:23.568Z
 startTime: 2022-10-31T05:59:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
