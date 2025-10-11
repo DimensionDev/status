@@ -191,11 +191,6 @@ sites:
     - "x-api-key: $GEM_NFT_API_X_API_KEY"
   assignees:
     - frontendgatekeeper
-- name: API - Gopluslabs Security
-  url: $GOPLUSLABS_SECURITY_API_URL
-  method: GET
-  assignees:
-    - frontendgatekeeper
 - name: API - Looksrare NFT
   url: $LOOKSRARE_NFT_API_URL
   method: GET
