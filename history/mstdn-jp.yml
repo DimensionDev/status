@@ -1,7 +1,7 @@
 url: https://mstdn.jp/health
-status: down
+status: degraded
 code: 500
-responseTime: 312
-lastUpdated: 2025-10-12T22:38:43.278Z
+responseTime: 777
+lastUpdated: 2025-10-12T22:45:06.292Z
 startTime: 2022-12-07T06:45:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
