@@ -1,7 +1,7 @@
 url: $LOOKSRARE_NFT_API_URL
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-21T23:10:40.265Z
+code: 404
+responseTime: 217
+lastUpdated: 2026-01-22T23:09:37.547Z
 startTime: 2022-10-31T05:59:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
