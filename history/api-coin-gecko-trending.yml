@@ -1,7 +1,7 @@
 url: $COINGECKO_TRENDING_API_URL
 status: up
 code: 200
-responseTime: 340
-lastUpdated: 2026-02-20T23:11:42.979Z
+responseTime: 302
+lastUpdated: 2026-02-21T23:09:25.845Z
 startTime: 2022-10-31T05:59:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
