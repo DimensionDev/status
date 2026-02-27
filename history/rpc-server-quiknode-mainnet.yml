@@ -1,7 +1,7 @@
 url: $QUIKNODE_MAINNET_RPC_URL
-status: down
-code: 403
-responseTime: 144
-lastUpdated: 2026-02-27T12:23:24.578Z
+status: degraded
+code: 0
+responseTime: 0
+lastUpdated: 2026-02-27T12:42:55.129Z
 startTime: 2022-07-14T12:10:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
